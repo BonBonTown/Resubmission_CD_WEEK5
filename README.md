@@ -5,7 +5,7 @@ This repository contains a corpus in the format of CSV, a most-played list of Co
 This corpus is designed to explore the language style and emotional characteristics of the lyrics of Coldplay's top 20 most-played songs on Spotify until December 18, 2023, from the perspective of part-of-speech and lemmas.
 
 # Criteria for Text Selection:
--**About the text**: 
+- **About the text**: 
 The texts are Coldplay's top 20 most-played songs on Spotify until December 18, 2023.
 - **Why Spotify and Kworb**: 
 Kworb is a data-centric website providing up-to-date charts and analytics on music trends across major streaming platforms like Spotify, Apple Music, and YouTube. The top 20 songs on Spotify were chosen because Spotify is one of the world's largest music streaming service providers, with a broad user base. 
