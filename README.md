@@ -10,7 +10,7 @@ The texts are Coldplay's top 20 most-played songs on Spotify until December 18, 
 - **Why Spotify and Kworb**: 
 Kworb is a data-centric website providing up-to-date charts and analytics on music trends across major streaming platforms like Spotify, Apple Music, and YouTube. The top 20 songs on Spotify were chosen because Spotify is one of the world's largest music streaming service providers, with a broad user base. 
 - **Where and how to get the Text**: 
-The texts were copied from the official website of Coldplay.
+The texts were manually copied from the official website of Coldplay.
 
 # Scraping (Collecting) Process
 - **Scraping the most-played list from Kworb**: Pandas, BeautifulSoup, Requests in Python were used to send requests to Kworb for ranked, structured data with song names, total streaming counting, and daily streaming counting of Coldplay's songs on Spotify until December 18, 2023. The structured data is saved in CSV format. 
