@@ -1,0 +1,852 @@
+filename,original_text,tokens,POS,lemmas
+My Universe,"You, you are my universe
+And I just want to put you first
+And you, you are my universe
+And I…
+
+In the night I lie and look up at you
+When the morning comes I watch you rise
+There’s a paradise they couldn’t capture
+That bright infinity inside your eyes
+
+Never ending forever baby
+
+You, you are my universe
+And I just want to put you first
+And you, you are my universe
+And you make my world light up inside
+
+And they said that we can’t be together
+Because
+Because we come from different sides
+
+You, you are my universe
+And I just want to put you first
+And you, you are my universe
+And you make my world light up inside
+
+My universe do do do do
+My universe do do do do
+My universe do do do do
+You make my world light up inside
+Make my world light up inside
+
+When I’m without you I’m crazy
+
+We are made of each other baby
+
+You, you are my universe
+And I just want to put you first
+You, you are my universe
+And you make my world light up inside
+
+My universe do do do do
+My universe do do do do
+My universe
+You you are my universe and I…","['you', 'you', 'are', 'my', 'universe', 'and', 'i', 'just', 'want', 'to', 'put', 'you', 'first', 'and', 'you', 'you', 'are', 'my', 'universe', 'and', 'i…', 'in', 'the', 'night', 'i', 'lie', 'and', 'look', 'up', 'at', 'you', 'when', 'the', 'morning', 'comes', 'i', 'watch', 'you', 'rise', 'there', '’', 's', 'a', 'paradise', 'they', 'couldn', '’', 't', 'capture', 'that', 'bright', 'infinity', 'inside', 'your', 'eyes', 'never', 'ending', 'forever', 'baby', 'you', 'you', 'are', 'my', 'universe', 'and', 'i', 'just', 'want', 'to', 'put', 'you', 'first', 'and', 'you', 'you', 'are', 'my', 'universe', 'and', 'you', 'make', 'my', 'world', 'light', 'up', 'inside', 'and', 'they', 'said', 'that', 'we', 'can', '’', 't', 'be', 'together', 'because', 'because', 'we', 'come', 'from', 'different', 'sides', 'you', 'you', 'are', 'my', 'universe', 'and', 'i', 'just', 'want', 'to', 'put', 'you', 'first', 'and', 'you', 'you', 'are', 'my', 'universe', 'and', 'you', 'make', 'my', 'world', 'light', 'up', 'inside', 'my', 'universe', 'do', 'do', 'do', 'do', 'my', 'universe', 'do', 'do', 'do', 'do', 'my', 'universe', 'do', 'do', 'do', 'do', 'you', 'make', 'my', 'world', 'light', 'up', 'inside', 'make', 'my', 'world', 'light', 'up', 'inside', 'when', 'i', '’', 'm', 'without', 'you', 'i', '’', 'm', 'crazy', 'we', 'are', 'made', 'of', 'each', 'other', 'baby', 'you', 'you', 'are', 'my', 'universe', 'and', 'i', 'just', 'want', 'to', 'put', 'you', 'first', 'you', 'you', 'are', 'my', 'universe', 'and', 'you', 'make', 'my', 'world', 'light', 'up', 'inside', 'my', 'universe', 'do', 'do', 'do', 'do', 'my', 'universe', 'do', 'do', 'do', 'do', 'my', 'universe', 'you', 'you', 'are', 'my', 'universe', 'and', 'i…']","['PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'PRON', 'VERB', 'CCONJ', 'VERB', 'ADP', 'ADP', 'PRON', 'SCONJ', 'DET', 'NOUN', 'VERB', 'PRON', 'VERB', 'PRON', 'VERB', 'ADV', 'PUNCT', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'PUNCT', 'PROPN', 'VERB', 'SCONJ', 'ADJ', 'NOUN', 'ADP', 'PRON', 'NOUN', 'ADV', 'VERB', 'ADV', 'NOUN', 'PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'ADP', 'ADV', 'CCONJ', 'PRON', 'VERB', 'SCONJ', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'AUX', 'ADV', 'SCONJ', 'SCONJ', 'PRON', 'VERB', 'ADP', 'ADJ', 'NOUN', 'PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'ADP', 'ADP', 'PRON', 'NOUN', 'AUX', 'AUX', 'AUX', 'VERB', 'PRON', 'NOUN', 'AUX', 'AUX', 'AUX', 'VERB', 'PRON', 'NOUN', 'AUX', 'AUX', 'AUX', 'AUX', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'ADP', 'ADV', 'VERB', 'PRON', 'NOUN', 'VERB', 'ADP', 'ADV', 'SCONJ', 'PRON', 'PUNCT', 'VERB', 'ADP', 'PRON', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'PRON', 'AUX', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'ADV', 'PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'ADP', 'ADP', 'PRON', 'NOUN', 'AUX', 'AUX', 'AUX', 'AUX', 'PRON', 'NOUN', 'AUX', 'AUX', 'AUX', 'VERB', 'PRON', 'NOUN', 'PRON', 'PRON', 'AUX', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'VERB']","['you', 'you', 'be', 'my', 'universe', 'and', 'I', 'just', 'want', 'to', 'put', 'you', 'first', 'and', 'you', 'you', 'be', 'my', 'universe', 'and', 'I', '…', 'in', 'the', 'night', 'I', 'lie', 'and', 'look', 'up', 'at', 'you', 'when', 'the', 'morning', 'come', 'I', 'watch', 'you', 'rise', 'there', ""'"", 's', 'a', 'paradise', 'they', 'couldn', ""'"", 't', 'capture', 'that', 'bright', 'infinity', 'inside', 'your', 'eye', 'never', 'end', 'forever', 'baby', 'you', 'you', 'be', 'my', 'universe', 'and', 'I', 'just', 'want', 'to', 'put', 'you', 'first', 'and', 'you', 'you', 'be', 'my', 'universe', 'and', 'you', 'make', 'my', 'world', 'light', 'up', 'inside', 'and', 'they', 'say', 'that', 'we', 'can', ""'"", 't', 'be', 'together', 'because', 'because', 'we', 'come', 'from', 'different', 'side', 'you', 'you', 'be', 'my', 'universe', 'and', 'I', 'just', 'want', 'to', 'put', 'you', 'first', 'and', 'you', 'you', 'be', 'my', 'universe', 'and', 'you', 'make', 'my', 'world', 'light', 'up', 'inside', 'my', 'universe', 'do', 'do', 'do', 'do', 'my', 'universe', 'do', 'do', 'do', 'do', 'my', 'universe', 'do', 'do', 'do', 'do', 'you', 'make', 'my', 'world', 'light', 'up', 'inside', 'make', 'my', 'world', 'light', 'up', 'inside', 'when', 'I', ""'"", 'm', 'without', 'you', 'I', ""'"", 'm', 'crazy', 'we', 'be', 'make', 'of', 'each', 'other', 'baby', 'you', 'you', 'be', 'my', 'universe', 'and', 'I', 'just', 'want', 'to', 'put', 'you', 'first', 'you', 'you', 'be', 'my', 'universe', 'and', 'you', 'make', 'my', 'world', 'light', 'up', 'inside', 'my', 'universe', 'do', 'do', 'do', 'do', 'my', 'universe', 'do', 'do', 'do', 'do', 'my', 'universe', 'you', 'you', 'be', 'my', 'universe', 'and', 'I', '…']"
+Yellow,"Look at the stars
+Look how they shine for you
+And everything you do
+Yeah, they were all yellow
+
+I came along
+I wrote a song for you
+And all the things you do
+And it was called yellow
+
+So then I took my turn
+Oh what a thing to have done
+And it was all yellow
+
+Your skin
+Oh yeah, your skin and bones
+Turn into something beautiful
+You know, you know I love you so
+You know I love you so
+
+I swam across
+I jumped across for you
+Oh what a thing to do
+
+‘Cause you were all yellow
+I drew a line
+I drew a line for you
+Oh what a thing to do
+And it was all yellow
+
+Your skin
+Oh yeah, your skin and bones
+Turn into something beautiful
+You know, for you I’d bleed myself dry
+For you I’d bleed myself dry
+
+It’s true
+Look how they shine for you
+Look how they shine for you
+Look how they shine for
+Look how they shine for you
+Look how they shine for you
+Look how they shine
+
+Look at the stars
+Look how they shine for you
+And all the things that you do","['look', 'at', 'the', 'stars', 'look', 'how', 'they', 'shine', 'for', 'you', 'and', 'everything', 'you', 'do', 'yeah', 'they', 'were', 'all', 'yellow', 'i', 'came', 'along', 'i', 'wrote', 'a', 'song', 'for', 'you', 'and', 'all', 'the', 'things', 'you', 'do', 'and', 'it', 'was', 'called', 'yellow', 'so', 'then', 'i', 'took', 'my', 'turn', 'oh', 'what', 'a', 'thing', 'to', 'have', 'done', 'and', 'it', 'was', 'all', 'yellow', 'your', 'skin', 'oh', 'yeah', 'your', 'skin', 'and', 'bones', 'turn', 'into', 'something', 'beautiful', 'you', 'know', 'you', 'know', 'i', 'love', 'you', 'so', 'you', 'know', 'i', 'love', 'you', 'so', 'i', 'swam', 'across', 'i', 'jumped', 'across', 'for', 'you', 'oh', 'what', 'a', 'thing', 'to', 'do', '‘', 'cause', 'you', 'were', 'all', 'yellow', 'i', 'drew', 'a', 'line', 'i', 'drew', 'a', 'line', 'for', 'you', 'oh', 'what', 'a', 'thing', 'to', 'do', 'and', 'it', 'was', 'all', 'yellow', 'your', 'skin', 'oh', 'yeah', 'your', 'skin', 'and', 'bones', 'turn', 'into', 'something', 'beautiful', 'you', 'know', 'for', 'you', 'i', '’', 'd', 'bleed', 'myself', 'dry', 'for', 'you', 'i', '’', 'd', 'bleed', 'myself', 'dry', 'it', '’', 's', 'true', 'look', 'how', 'they', 'shine', 'for', 'you', 'look', 'how', 'they', 'shine', 'for', 'you', 'look', 'how', 'they', 'shine', 'for', 'look', 'how', 'they', 'shine', 'for', 'you', 'look', 'how', 'they', 'shine', 'for', 'you', 'look', 'how', 'they', 'shine', 'look', 'at', 'the', 'stars', 'look', 'how', 'they', 'shine', 'for', 'you', 'and', 'all', 'the', 'things', 'that', 'you', 'do']","['VERB', 'ADP', 'DET', 'NOUN', 'VERB', 'SCONJ', 'PRON', 'VERB', 'ADP', 'PRON', 'CCONJ', 'PRON', 'PRON', 'VERB', 'INTJ', 'PRON', 'AUX', 'ADV', 'ADJ', 'PRON', 'VERB', 'ADP', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON', 'CCONJ', 'DET', 'DET', 'NOUN', 'PRON', 'VERB', 'CCONJ', 'PRON', 'AUX', 'VERB', 'ADJ', 'ADV', 'ADV', 'PRON', 'VERB', 'PRON', 'NOUN', 'INTJ', 'PRON', 'DET', 'NOUN', 'PART', 'AUX', 'VERB', 'CCONJ', 'PRON', 'AUX', 'ADV', 'ADJ', 'PRON', 'NOUN', 'INTJ', 'INTJ', 'PRON', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP', 'PRON', 'ADJ', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'ADV', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'ADV', 'PRON', 'VERB', 'ADP', 'PRON', 'VERB', 'ADP', 'ADP', 'PRON', 'INTJ', 'PRON', 'DET', 'NOUN', 'PART', 'VERB', 'PUNCT', 'VERB', 'PRON', 'AUX', 'ADV', 'ADJ', 'PRON', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON', 'INTJ', 'PRON', 'DET', 'NOUN', 'PART', 'VERB', 'CCONJ', 'PRON', 'AUX', 'ADV', 'ADJ', 'PRON', 'NOUN', 'INTJ', 'INTJ', 'PRON', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'ADP', 'PRON', 'ADJ', 'PRON', 'VERB', 'ADP', 'PRON', 'PRON', 'PUNCT', 'NOUN', 'VERB', 'PRON', 'ADJ', 'ADP', 'PRON', 'PRON', 'PUNCT', 'NOUN', 'VERB', 'PRON', 'VERB', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'ADP', 'PRON', 'VERB', 'SCONJ', 'PRON', 'VERB', 'ADP', 'PRON', 'VERB', 'SCONJ', 'PRON', 'VERB', 'ADP', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'ADP', 'PRON', 'VERB', 'SCONJ', 'PRON', 'VERB', 'ADP', 'PRON', 'VERB', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'SCONJ', 'PRON', 'VERB', 'ADP', 'PRON', 'CCONJ', 'DET', 'DET', 'NOUN', 'PRON', 'PRON', 'VERB']","['look', 'at', 'the', 'star', 'look', 'how', 'they', 'shine', 'for', 'you', 'and', 'everything', 'you', 'do', 'yeah', 'they', 'be', 'all', 'yellow', 'I', 'come', 'along', 'I', 'write', 'a', 'song', 'for', 'you', 'and', 'all', 'the', 'thing', 'you', 'do', 'and', 'it', 'be', 'call', 'yellow', 'so', 'then', 'I', 'take', 'my', 'turn', 'oh', 'what', 'a', 'thing', 'to', 'have', 'do', 'and', 'it', 'be', 'all', 'yellow', 'your', 'skin', 'oh', 'yeah', 'your', 'skin', 'and', 'bone', 'turn', 'into', 'something', 'beautiful', 'you', 'know', 'you', 'know', 'I', 'love', 'you', 'so', 'you', 'know', 'I', 'love', 'you', 'so', 'I', 'swam', 'across', 'I', 'jump', 'across', 'for', 'you', 'oh', 'what', 'a', 'thing', 'to', 'do', ""'"", 'cause', 'you', 'be', 'all', 'yellow', 'I', 'draw', 'a', 'line', 'I', 'draw', 'a', 'line', 'for', 'you', 'oh', 'what', 'a', 'thing', 'to', 'do', 'and', 'it', 'be', 'all', 'yellow', 'your', 'skin', 'oh', 'yeah', 'your', 'skin', 'and', 'bone', 'turn', 'into', 'something', 'beautiful', 'you', 'know', 'for', 'you', 'I', ""'"", 'd', 'bleed', 'myself', 'dry', 'for', 'you', 'I', ""'"", 'd', 'bleed', 'myself', 'dry', 'it', ""'"", 's', 'true', 'look', 'how', 'they', 'shine', 'for', 'you', 'look', 'how', 'they', 'shine', 'for', 'you', 'look', 'how', 'they', 'shine', 'for', 'look', 'how', 'they', 'shine', 'for', 'you', 'look', 'how', 'they', 'shine', 'for', 'you', 'look', 'how', 'they', 'shine', 'look', 'at', 'the', 'star', 'look', 'how', 'they', 'shine', 'for', 'you', 'and', 'all', 'the', 'thing', 'that', 'you', 'do']"
+A Sky Full of Stars,"Cause you’re a sky cause you’re a sky full of stars
+I’m gonna give you my heart
+Cause you’re a sky cause you’re a sky full of stars
+Cause you light up the path
+
+And I don’t care go on and tear me apart
+And I don’t care if you do
+Cause in a sky cause in a sky full of stars
+I think I saw you
+
+Cause you’re a sky cause you’re a sky full of stars
+I want to die in your arms
+Cause you get lighter the more it gets dark
+I’m gonna give you my heart
+
+And I don’t care go on and tear me apart
+And I don’t care if you do
+Cause in a sky cause in a sky full of stars
+I think I see you
+I think I see you
+
+Cause in a sky cause in a sky full of stars
+I think I see you
+I think I see you
+
+Cause you’re a sky you’re a sky full of stars
+Such a heavenly view
+You’re such a heavenly view","['cause', 'you', '’', 're', 'a', 'sky', 'cause', 'you', '’', 're', 'a', 'sky', 'full', 'of', 'stars', 'i', '’', 'm', 'gon', 'na', 'give', 'you', 'my', 'heart', 'cause', 'you', '’', 're', 'a', 'sky', 'cause', 'you', '’', 're', 'a', 'sky', 'full', 'of', 'stars', 'cause', 'you', 'light', 'up', 'the', 'path', 'and', 'i', 'don', '’', 't', 'care', 'go', 'on', 'and', 'tear', 'me', 'apart', 'and', 'i', 'don', '’', 't', 'care', 'if', 'you', 'do', 'cause', 'in', 'a', 'sky', 'cause', 'in', 'a', 'sky', 'full', 'of', 'stars', 'i', 'think', 'i', 'saw', 'you', 'cause', 'you', '’', 're', 'a', 'sky', 'cause', 'you', '’', 're', 'a', 'sky', 'full', 'of', 'stars', 'i', 'want', 'to', 'die', 'in', 'your', 'arms', 'cause', 'you', 'get', 'lighter', 'the', 'more', 'it', 'gets', 'dark', 'i', '’', 'm', 'gon', 'na', 'give', 'you', 'my', 'heart', 'and', 'i', 'don', '’', 't', 'care', 'go', 'on', 'and', 'tear', 'me', 'apart', 'and', 'i', 'don', '’', 't', 'care', 'if', 'you', 'do', 'cause', 'in', 'a', 'sky', 'cause', 'in', 'a', 'sky', 'full', 'of', 'stars', 'i', 'think', 'i', 'see', 'you', 'i', 'think', 'i', 'see', 'you', 'cause', 'in', 'a', 'sky', 'cause', 'in', 'a', 'sky', 'full', 'of', 'stars', 'i', 'think', 'i', 'see', 'you', 'i', 'think', 'i', 'see', 'you', 'cause', 'you', '’', 're', 'a', 'sky', 'you', '’', 're', 'a', 'sky', 'full', 'of', 'stars', 'such', 'a', 'heavenly', 'view', 'you', '’', 're', 'such', 'a', 'heavenly', 'view']","['VERB', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'SCONJ', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PRON', 'PUNCT', 'AUX', 'VERB', 'PART', 'VERB', 'PRON', 'PRON', 'NOUN', 'VERB', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'SCONJ', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'PUNCT', 'PROPN', 'NOUN', 'VERB', 'ADP', 'CCONJ', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'VERB', 'PUNCT', 'PROPN', 'VERB', 'SCONJ', 'PRON', 'AUX', 'VERB', 'ADP', 'DET', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'SCONJ', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PRON', 'VERB', 'PART', 'VERB', 'ADP', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'PRON', 'ADJ', 'PRON', 'VERB', 'ADJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'PART', 'VERB', 'PRON', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'PROPN', 'PUNCT', 'PROPN', 'NOUN', 'VERB', 'ADP', 'CCONJ', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'VERB', 'PUNCT', 'PROPN', 'VERB', 'SCONJ', 'PRON', 'AUX', 'VERB', 'ADP', 'DET', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'PRON', 'PUNCT', 'ADP', 'DET', 'NOUN', 'ADJ', 'ADP', 'NOUN', 'DET', 'DET', 'ADJ', 'NOUN', 'PRON', 'PUNCT', 'ADP', 'DET', 'DET', 'ADJ', 'NOUN']","['cause', 'you', ""'"", 're', 'a', 'sky', 'cause', 'you', ""'"", 're', 'a', 'sky', 'full', 'of', 'star', 'I', ""'"", 'm', 'go', 'to', 'give', 'you', 'my', 'heart', 'cause', 'you', ""'"", 're', 'a', 'sky', 'cause', 'you', ""'"", 're', 'a', 'sky', 'full', 'of', 'star', 'cause', 'you', 'light', 'up', 'the', 'path', 'and', 'I', 'don', ""'"", 't', 'care', 'go', 'on', 'and', 'tear', 'I', 'apart', 'and', 'I', 'don', ""'"", 't', 'care', 'if', 'you', 'do', 'cause', 'in', 'a', 'sky', 'cause', 'in', 'a', 'sky', 'full', 'of', 'star', 'I', 'think', 'I', 'see', 'you', 'cause', 'you', ""'"", 're', 'a', 'sky', 'cause', 'you', ""'"", 're', 'a', 'sky', 'full', 'of', 'star', 'I', 'want', 'to', 'die', 'in', 'your', 'arm', 'cause', 'you', 'get', 'light', 'the', 'more', 'it', 'get', 'dark', 'I', ""'"", 'm', 'go', 'to', 'give', 'you', 'my', 'heart', 'and', 'I', 'don', ""'"", 't', 'care', 'go', 'on', 'and', 'tear', 'I', 'apart', 'and', 'I', 'don', ""'"", 't', 'care', 'if', 'you', 'do', 'cause', 'in', 'a', 'sky', 'cause', 'in', 'a', 'sky', 'full', 'of', 'star', 'I', 'think', 'I', 'see', 'you', 'I', 'think', 'I', 'see', 'you', 'cause', 'in', 'a', 'sky', 'cause', 'in', 'a', 'sky', 'full', 'of', 'star', 'I', 'think', 'I', 'see', 'you', 'I', 'think', 'I', 'see', 'you', 'cause', 'you', ""'"", 're', 'a', 'sky', 'you', ""'"", 're', 'a', 'sky', 'full', 'of', 'star', 'such', 'a', 'heavenly', 'view', 'you', ""'"", 're', 'such', 'a', 'heavenly', 'view']"
+Trouble,"Oh no, I see
+A spider web is tangled up with me
+And I lost my head
+And thought of all the stupid things I’d said
+
+Oh no what’s this
+A spider web and I’m caught in the middle
+So I turn to run
+And thought of all the stupid things I’d done
+
+And I, I never meant to cause you trouble
+And I, I never meant to do you wrong
+And I, well if I ever caused you trouble
+And oh no, I never meant to do you harm
+
+Oh no, I see
+A spider web and it’s me in the middle
+So I twist and turn
+But here am I in my little bubble
+
+Singing that I, I never meant to cause you trouble
+And I, I never meant to do you wrong
+And I, well if I ever caused you trouble
+And oh no, I never meant to do you harm
+
+They spun a web for me","['oh', 'no', 'i', 'see', 'a', 'spider', 'web', 'is', 'tangled', 'up', 'with', 'me', 'and', 'i', 'lost', 'my', 'head', 'and', 'thought', 'of', 'all', 'the', 'stupid', 'things', 'i', '’', 'd', 'said', 'oh', 'no', 'what', '’', 's', 'this', 'a', 'spider', 'web', 'and', 'i', '’', 'm', 'caught', 'in', 'the', 'middle', 'so', 'i', 'turn', 'to', 'run', 'and', 'thought', 'of', 'all', 'the', 'stupid', 'things', 'i', '’', 'd', 'done', 'and', 'i', 'i', 'never', 'meant', 'to', 'cause', 'you', 'trouble', 'and', 'i', 'i', 'never', 'meant', 'to', 'do', 'you', 'wrong', 'and', 'i', 'well', 'if', 'i', 'ever', 'caused', 'you', 'trouble', 'and', 'oh', 'no', 'i', 'never', 'meant', 'to', 'do', 'you', 'harm', 'oh', 'no', 'i', 'see', 'a', 'spider', 'web', 'and', 'it', '’', 's', 'me', 'in', 'the', 'middle', 'so', 'i', 'twist', 'and', 'turn', 'but', 'here', 'am', 'i', 'in', 'my', 'little', 'bubble', 'singing', 'that', 'i', 'i', 'never', 'meant', 'to', 'cause', 'you', 'trouble', 'and', 'i', 'i', 'never', 'meant', 'to', 'do', 'you', 'wrong', 'and', 'i', 'well', 'if', 'i', 'ever', 'caused', 'you', 'trouble', 'and', 'oh', 'no', 'i', 'never', 'meant', 'to', 'do', 'you', 'harm', 'they', 'spun', 'a', 'web', 'for', 'me']","['INTJ', 'INTJ', 'PRON', 'VERB', 'DET', 'NOUN', 'NOUN', 'AUX', 'VERB', 'ADP', 'ADP', 'PRON', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'DET', 'DET', 'ADJ', 'NOUN', 'PRON', 'PUNCT', 'NOUN', 'VERB', 'INTJ', 'INTJ', 'PRON', 'PUNCT', 'VERB', 'PRON', 'DET', 'NOUN', 'NOUN', 'CCONJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'ADP', 'DET', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'PART', 'VERB', 'CCONJ', 'VERB', 'ADP', 'DET', 'DET', 'ADJ', 'NOUN', 'PRON', 'PUNCT', 'NOUN', 'VERB', 'CCONJ', 'PRON', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'ADJ', 'CCONJ', 'PRON', 'INTJ', 'SCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'NOUN', 'CCONJ', 'INTJ', 'INTJ', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'VERB', 'INTJ', 'INTJ', 'PRON', 'VERB', 'DET', 'NOUN', 'NOUN', 'CCONJ', 'PRON', 'PUNCT', 'VERB', 'PRON', 'ADP', 'DET', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'CCONJ', 'VERB', 'CCONJ', 'ADV', 'AUX', 'PRON', 'ADP', 'PRON', 'ADJ', 'NOUN', 'NOUN', 'PRON', 'PRON', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'PRON', 'ADJ', 'CCONJ', 'PRON', 'INTJ', 'SCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'NOUN', 'CCONJ', 'INTJ', 'INTJ', 'PRON', 'ADV', 'VERB', 'PART', 'AUX', 'PRON', 'VERB', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON']","['oh', 'no', 'I', 'see', 'a', 'spider', 'web', 'be', 'tangle', 'up', 'with', 'I', 'and', 'I', 'lose', 'my', 'head', 'and', 'thought', 'of', 'all', 'the', 'stupid', 'thing', 'I', ""'"", 'd', 'say', 'oh', 'no', 'what', ""'"", 's', 'this', 'a', 'spider', 'web', 'and', 'I', ""'"", 'm', 'catch', 'in', 'the', 'middle', 'so', 'I', 'turn', 'to', 'run', 'and', 'think', 'of', 'all', 'the', 'stupid', 'thing', 'I', ""'"", 'd', 'do', 'and', 'I', 'I', 'never', 'mean', 'to', 'cause', 'you', 'trouble', 'and', 'I', 'I', 'never', 'mean', 'to', 'do', 'you', 'wrong', 'and', 'I', 'well', 'if', 'I', 'ever', 'cause', 'you', 'trouble', 'and', 'oh', 'no', 'I', 'never', 'mean', 'to', 'do', 'you', 'harm', 'oh', 'no', 'I', 'see', 'a', 'spider', 'web', 'and', 'it', ""'"", 's', 'I', 'in', 'the', 'middle', 'so', 'I', 'twist', 'and', 'turn', 'but', 'here', 'be', 'I', 'in', 'my', 'little', 'bubble', 'singing', 'that', 'I', 'I', 'never', 'mean', 'to', 'cause', 'you', 'trouble', 'and', 'I', 'I', 'never', 'mean', 'to', 'do', 'you', 'wrong', 'and', 'I', 'well', 'if', 'I', 'ever', 'cause', 'you', 'trouble', 'and', 'oh', 'no', 'I', 'never', 'mean', 'to', 'do', 'you', 'harm', 'they', 'spin', 'a', 'web', 'for', 'I']"
+Princess of China,"Once upon a time somebody ran
+Somebody ran away saying ‘fast as I can
+I got to go, I got to go
+Once upon a time, we fell apart
+You’re holding in your hands the two halves of my heart
+Oh oh oh, ohohohoh
+
+Oh ohohohoh, ohohohohoh, ohohohoh, oh
+
+Once upon a time, we burned bright
+Now all we ever seem to do is fight
+On and on, and on and on and on
+Once upon a time on the same side
+Once upon a time on the same side in the same game
+Now why do you have to go
+Have to go and throw water on my flame?
+I could have been a princess, you’d be a king
+Could have had a castle and worn a ring
+
+I could have been a princess, you’d be a king
+Could have had a castle and worn a ring
+But no o o o oh you let me go o o o oh
+You stole my star
+La, lalala lalalala, lalalalalalala, lalalalalalala,
+You stole my star
+La, lalala lalalala
+
+‘Cos you really hurt me, no you really hurt me
+‘Cos you really hurt me, no you really hurt me
+‘Cos you really hurt me, oh-oh you really hurt me
+‘Cos you really hurt me, oh-oh you really hurt me","['once', 'upon', 'a', 'time', 'somebody', 'ran', 'somebody', 'ran', 'away', 'saying', '‘', 'fast', 'as', 'i', 'can', 'i', 'got', 'to', 'go', 'i', 'got', 'to', 'go', 'once', 'upon', 'a', 'time', 'we', 'fell', 'apart', 'you', '’', 're', 'holding', 'in', 'your', 'hands', 'the', 'two', 'halves', 'of', 'my', 'heart', 'oh', 'oh', 'oh', 'ohohohoh', 'oh', 'ohohohoh', 'ohohohohoh', 'ohohohoh', 'oh', 'once', 'upon', 'a', 'time', 'we', 'burned', 'bright', 'now', 'all', 'we', 'ever', 'seem', 'to', 'do', 'is', 'fight', 'on', 'and', 'on', 'and', 'on', 'and', 'on', 'and', 'on', 'once', 'upon', 'a', 'time', 'on', 'the', 'same', 'side', 'once', 'upon', 'a', 'time', 'on', 'the', 'same', 'side', 'in', 'the', 'same', 'game', 'now', 'why', 'do', 'you', 'have', 'to', 'go', 'have', 'to', 'go', 'and', 'throw', 'water', 'on', 'my', 'flame', 'i', 'could', 'have', 'been', 'a', 'princess', 'you', '’', 'd', 'be', 'a', 'king', 'could', 'have', 'had', 'a', 'castle', 'and', 'worn', 'a', 'ring', 'i', 'could', 'have', 'been', 'a', 'princess', 'you', '’', 'd', 'be', 'a', 'king', 'could', 'have', 'had', 'a', 'castle', 'and', 'worn', 'a', 'ring', 'but', 'no', 'o', 'o', 'o', 'oh', 'you', 'let', 'me', 'go', 'o', 'o', 'o', 'oh', 'you', 'stole', 'my', 'star', 'la', 'lalala', 'lalalala', 'lalalalalalala', 'lalalalalalala', 'you', 'stole', 'my', 'star', 'la', 'lalala', 'lalalala', '‘', 'cos', 'you', 'really', 'hurt', 'me', 'no', 'you', 'really', 'hurt', 'me', '‘', 'cos', 'you', 'really', 'hurt', 'me', 'no', 'you', 'really', 'hurt', 'me', '‘', 'cos', 'you', 'really', 'hurt', 'me', 'ohoh', 'you', 'really', 'hurt', 'me', '‘', 'cos', 'you', 'really', 'hurt', 'me', 'ohoh', 'you', 'really', 'hurt', 'me']","['ADV', 'SCONJ', 'DET', 'NOUN', 'PRON', 'VERB', 'PRON', 'VERB', 'ADV', 'VERB', 'PUNCT', 'ADV', 'SCONJ', 'PRON', 'AUX', 'PRON', 'VERB', 'PART', 'VERB', 'PRON', 'VERB', 'PART', 'VERB', 'ADV', 'SCONJ', 'DET', 'NOUN', 'PRON', 'VERB', 'ADV', 'PRON', 'PUNCT', 'ADP', 'VERB', 'ADP', 'PRON', 'NOUN', 'DET', 'NUM', 'NOUN', 'ADP', 'PRON', 'NOUN', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'ADV', 'SCONJ', 'DET', 'NOUN', 'PRON', 'VERB', 'ADJ', 'ADV', 'PRON', 'PRON', 'ADV', 'VERB', 'PART', 'VERB', 'AUX', 'VERB', 'ADP', 'CCONJ', 'ADV', 'CCONJ', 'ADV', 'CCONJ', 'ADV', 'CCONJ', 'ADP', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADV', 'SCONJ', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADV', 'SCONJ', 'AUX', 'PRON', 'VERB', 'PART', 'VERB', 'VERB', 'PART', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'ADP', 'PRON', 'NOUN', 'PRON', 'AUX', 'AUX', 'AUX', 'DET', 'NOUN', 'PRON', 'PUNCT', 'VERB', 'AUX', 'DET', 'NOUN', 'AUX', 'AUX', 'VERB', 'DET', 'NOUN', 'CCONJ', 'VERB', 'DET', 'NOUN', 'PRON', 'AUX', 'AUX', 'AUX', 'DET', 'NOUN', 'PRON', 'PUNCT', 'VERB', 'AUX', 'DET', 'NOUN', 'AUX', 'AUX', 'VERB', 'DET', 'NOUN', 'CCONJ', 'VERB', 'DET', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'NOUN', 'NOUN', 'INTJ', 'PRON', 'VERB', 'PRON', 'VERB', 'X', 'NOUN', 'NOUN', 'INTJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'PRON', 'VERB', 'PRON', 'NOUN', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'SCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'PRON', 'PRON', 'ADV', 'VERB', 'PRON', 'PUNCT', 'SCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'PRON', 'PRON', 'ADV', 'VERB', 'PRON', 'PUNCT', 'SCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'INTJ', 'PRON', 'ADV', 'VERB', 'PRON', 'PUNCT', 'SCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'INTJ', 'PRON', 'ADV', 'VERB', 'PRON']","['once', 'upon', 'a', 'time', 'somebody', 'run', 'somebody', 'run', 'away', 'say', ""'"", 'fast', 'as', 'I', 'can', 'I', 'get', 'to', 'go', 'I', 'get', 'to', 'go', 'once', 'upon', 'a', 'time', 'we', 'fall', 'apart', 'you', ""'"", 're', 'hold', 'in', 'your', 'hand', 'the', 'two', 'half', 'of', 'my', 'heart', 'oh', 'oh', 'oh', 'ohohohoh', 'oh', 'ohohohoh', 'ohohohohoh', 'ohohohoh', 'oh', 'once', 'upon', 'a', 'time', 'we', 'burn', 'bright', 'now', 'all', 'we', 'ever', 'seem', 'to', 'do', 'be', 'fight', 'on', 'and', 'on', 'and', 'on', 'and', 'on', 'and', 'on', 'once', 'upon', 'a', 'time', 'on', 'the', 'same', 'side', 'once', 'upon', 'a', 'time', 'on', 'the', 'same', 'side', 'in', 'the', 'same', 'game', 'now', 'why', 'do', 'you', 'have', 'to', 'go', 'have', 'to', 'go', 'and', 'throw', 'water', 'on', 'my', 'flame', 'I', 'could', 'have', 'be', 'a', 'princess', 'you', ""'"", 'd', 'be', 'a', 'king', 'could', 'have', 'have', 'a', 'castle', 'and', 'wear', 'a', 'ring', 'I', 'could', 'have', 'be', 'a', 'princess', 'you', ""'"", 'd', 'be', 'a', 'king', 'could', 'have', 'have', 'a', 'castle', 'and', 'wear', 'a', 'ring', 'but', 'no', 'o', 'o', 'o', 'oh', 'you', 'let', 'I', 'go', 'o', 'o', 'o', 'oh', 'you', 'steal', 'my', 'star', 'la', 'lalala', 'lalalala', 'lalalalalalala', 'lalalalalalala', 'you', 'steal', 'my', 'star', 'la', 'lalala', 'lalalala', ""'"", 'cos', 'you', 'really', 'hurt', 'I', 'no', 'you', 'really', 'hurt', 'I', ""'"", 'cos', 'you', 'really', 'hurt', 'I', 'no', 'you', 'really', 'hurt', 'I', ""'"", 'cos', 'you', 'really', 'hurt', 'I', 'ohoh', 'you', 'really', 'hurt', 'I', ""'"", 'cos', 'you', 'really', 'hurt', 'I', 'ohoh', 'you', 'really', 'hurt', 'I']"
+Clocks,"The lights go out and I can’t be saved
+Tides that I tried to swim against
+Have brought me down upon my knees
+Oh I beg, I beg and plead, singing
+
+Come out of things unsaid
+Shoot an apple off my head and a
+Trouble that can’t be named
+A tiger’s waiting to be tamed, singing
+
+You are
+You are
+
+Confusion never stops
+Closing walls and ticking clocks
+Gonna come back and take you home
+I could not stop that you now know, singing
+
+Come out upon my seas
+Cursed missed opportunities
+Am I a part of the cure?
+Or am I part of the disease? Singing
+
+You are, you are, you are
+You are, you are, you are
+
+And nothing else compares
+Oh nothing else compares
+And nothing else compares
+
+You are
+You are
+
+Home, home where I wanted to go
+Home, home where I wanted to go
+Home, home where I wanted to go
+Home, home where I wanted to go","['the', 'lights', 'go', 'out', 'and', 'i', 'can', '’', 't', 'be', 'saved', 'tides', 'that', 'i', 'tried', 'to', 'swim', 'against', 'have', 'brought', 'me', 'down', 'upon', 'my', 'knees', 'oh', 'i', 'beg', 'i', 'beg', 'and', 'plead', 'singing', 'come', 'out', 'of', 'things', 'unsaid', 'shoot', 'an', 'apple', 'off', 'my', 'head', 'and', 'a', 'trouble', 'that', 'can', '’', 't', 'be', 'named', 'a', 'tiger', '’', 's', 'waiting', 'to', 'be', 'tamed', 'singing', 'you', 'are', 'you', 'are', 'confusion', 'never', 'stops', 'closing', 'walls', 'and', 'ticking', 'clocks', 'gon', 'na', 'come', 'back', 'and', 'take', 'you', 'home', 'i', 'could', 'not', 'stop', 'that', 'you', 'now', 'know', 'singing', 'come', 'out', 'upon', 'my', 'seas', 'cursed', 'missed', 'opportunities', 'am', 'i', 'a', 'part', 'of', 'the', 'cure', 'or', 'am', 'i', 'part', 'of', 'the', 'disease', 'singing', 'you', 'are', 'you', 'are', 'you', 'are', 'you', 'are', 'you', 'are', 'you', 'are', 'and', 'nothing', 'else', 'compares', 'oh', 'nothing', 'else', 'compares', 'and', 'nothing', 'else', 'compares', 'you', 'are', 'you', 'are', 'home', 'home', 'where', 'i', 'wanted', 'to', 'go', 'home', 'home', 'where', 'i', 'wanted', 'to', 'go', 'home', 'home', 'where', 'i', 'wanted', 'to', 'go', 'home', 'home', 'where', 'i', 'wanted', 'to', 'go']","['DET', 'NOUN', 'VERB', 'ADP', 'CCONJ', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'AUX', 'VERB', 'NOUN', 'PRON', 'PRON', 'VERB', 'PART', 'VERB', 'ADP', 'AUX', 'VERB', 'PRON', 'ADP', 'SCONJ', 'PRON', 'NOUN', 'INTJ', 'PRON', 'VERB', 'PRON', 'VERB', 'CCONJ', 'VERB', 'NOUN', 'VERB', 'ADP', 'ADP', 'NOUN', 'ADJ', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'AUX', 'VERB', 'DET', 'NOUN', 'PUNCT', 'AUX', 'VERB', 'PART', 'AUX', 'VERB', 'VERB', 'PRON', 'AUX', 'PRON', 'AUX', 'NOUN', 'ADV', 'VERB', 'NOUN', 'NOUN', 'CCONJ', 'VERB', 'NOUN', 'VERB', 'PART', 'VERB', 'ADV', 'CCONJ', 'VERB', 'PRON', 'ADV', 'PRON', 'AUX', 'PART', 'VERB', 'SCONJ', 'PRON', 'ADV', 'VERB', 'NOUN', 'VERB', 'ADP', 'SCONJ', 'PRON', 'NOUN', 'VERB', 'VERB', 'NOUN', 'AUX', 'PRON', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'CCONJ', 'AUX', 'PRON', 'NOUN', 'ADP', 'DET', 'NOUN', 'VERB', 'PRON', 'AUX', 'PRON', 'AUX', 'PRON', 'AUX', 'PRON', 'AUX', 'PRON', 'AUX', 'PRON', 'AUX', 'CCONJ', 'PRON', 'ADV', 'VERB', 'INTJ', 'PRON', 'ADV', 'VERB', 'CCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'AUX', 'PRON', 'AUX', 'ADV', 'ADV', 'SCONJ', 'PRON', 'VERB', 'PART', 'VERB', 'ADV', 'ADV', 'SCONJ', 'PRON', 'VERB', 'PART', 'VERB', 'ADV', 'ADV', 'SCONJ', 'PRON', 'VERB', 'PART', 'VERB', 'ADV', 'ADV', 'SCONJ', 'PRON', 'VERB', 'PART', 'VERB']","['the', 'light', 'go', 'out', 'and', 'I', 'can', ""'"", 't', 'be', 'save', 'tide', 'that', 'I', 'try', 'to', 'swim', 'against', 'have', 'bring', 'I', 'down', 'upon', 'my', 'knee', 'oh', 'I', 'beg', 'I', 'beg', 'and', 'plead', 'singing', 'come', 'out', 'of', 'thing', 'unsaid', 'shoot', 'an', 'apple', 'off', 'my', 'head', 'and', 'a', 'trouble', 'that', 'can', ""'"", 't', 'be', 'name', 'a', 'tiger', ""'"", 's', 'wait', 'to', 'be', 'tame', 'singe', 'you', 'be', 'you', 'be', 'confusion', 'never', 'stop', 'closing', 'wall', 'and', 'tick', 'clock', 'go', 'to', 'come', 'back', 'and', 'take', 'you', 'home', 'I', 'could', 'not', 'stop', 'that', 'you', 'now', 'know', 'singing', 'come', 'out', 'upon', 'my', 'sea', 'curse', 'miss', 'opportunity', 'be', 'I', 'a', 'part', 'of', 'the', 'cure', 'or', 'be', 'I', 'part', 'of', 'the', 'disease', 'singe', 'you', 'be', 'you', 'be', 'you', 'be', 'you', 'be', 'you', 'be', 'you', 'be', 'and', 'nothing', 'else', 'compare', 'oh', 'nothing', 'else', 'compare', 'and', 'nothing', 'else', 'compare', 'you', 'be', 'you', 'be', 'home', 'home', 'where', 'I', 'want', 'to', 'go', 'home', 'home', 'where', 'I', 'want', 'to', 'go', 'home', 'home', 'where', 'I', 'want', 'to', 'go', 'home', 'home', 'where', 'I', 'want', 'to', 'go']"
+Sparks,"Did I drive you away?
+I know what you’ll say
+You say, “Oh, sing one you know”
+But I promise you this
+I’ll always look out for you
+Yeah that’s what I’ll do
+
+I say, oh
+I say, oh
+
+My heart is yours
+It’s you that I hold on to
+Yeah that’s what I do
+And I know I was wrong
+But I won’t let you down
+(Oh yeah, oh yeah, oh yeah, I will, yes I will)
+
+I say oh
+I cry oh
+
+Yeah I saw sparks
+Yeah I saw sparks
+And I saw sparks
+Yeah I saw sparks
+
+Sing it out
+
+La, la, la, la, oh
+La, la, la, la, oh
+La, la, la, la, oh","['did', 'i', 'drive', 'you', 'away', 'i', 'know', 'what', 'you', '’', 'll', 'say', 'you', 'say', '“', 'oh', 'sing', 'one', 'you', 'know', '”', 'but', 'i', 'promise', 'you', 'this', 'i', '’', 'll', 'always', 'look', 'out', 'for', 'you', 'yeah', 'that', '’', 's', 'what', 'i', '’', 'll', 'do', 'i', 'say', 'oh', 'i', 'say', 'oh', 'my', 'heart', 'is', 'yours', 'it', '’', 's', 'you', 'that', 'i', 'hold', 'on', 'to', 'yeah', 'that', '’', 's', 'what', 'i', 'do', 'and', 'i', 'know', 'i', 'was', 'wrong', 'but', 'i', 'won', '’', 't', 'let', 'you', 'down', 'oh', 'yeah', 'oh', 'yeah', 'oh', 'yeah', 'i', 'will', 'yes', 'i', 'will', 'i', 'say', 'oh', 'i', 'cry', 'oh', 'yeah', 'i', 'saw', 'sparks', 'yeah', 'i', 'saw', 'sparks', 'and', 'i', 'saw', 'sparks', 'yeah', 'i', 'saw', 'sparks', 'sing', 'it', 'out', 'la', 'la', 'la', 'la', 'oh', 'la', 'la', 'la', 'la', 'oh', 'la', 'la', 'la', 'la', 'oh']","['AUX', 'PRON', 'VERB', 'PRON', 'ADV', 'PRON', 'VERB', 'PRON', 'PRON', 'PUNCT', 'AUX', 'VERB', 'PRON', 'VERB', 'PUNCT', 'INTJ', 'VERB', 'NOUN', 'PRON', 'VERB', 'PUNCT', 'CCONJ', 'PRON', 'VERB', 'PRON', 'PRON', 'PRON', 'PUNCT', 'AUX', 'ADV', 'VERB', 'ADP', 'ADP', 'PRON', 'INTJ', 'PRON', 'PUNCT', 'VERB', 'PRON', 'PRON', 'PUNCT', 'AUX', 'VERB', 'PRON', 'VERB', 'INTJ', 'PRON', 'VERB', 'INTJ', 'PRON', 'NOUN', 'AUX', 'PRON', 'PRON', 'PUNCT', 'VERB', 'PRON', 'SCONJ', 'PRON', 'VERB', 'ADP', 'ADP', 'INTJ', 'SCONJ', 'PUNCT', 'VERB', 'PRON', 'PRON', 'VERB', 'CCONJ', 'PRON', 'VERB', 'PRON', 'AUX', 'ADJ', 'CCONJ', 'PRON', 'VERB', 'PUNCT', 'NOUN', 'VERB', 'PRON', 'ADP', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'PRON', 'AUX', 'INTJ', 'PRON', 'AUX', 'PRON', 'VERB', 'INTJ', 'PRON', 'VERB', 'INTJ', 'INTJ', 'PRON', 'VERB', 'NOUN', 'INTJ', 'PRON', 'VERB', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'NOUN', 'INTJ', 'PRON', 'VERB', 'NOUN', 'VERB', 'PRON', 'ADP', 'X', 'X', 'INTJ', 'PROPN', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'PROPN', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'PROPN', 'INTJ']","['do', 'I', 'drive', 'you', 'away', 'I', 'know', 'what', 'you', ""'"", 'll', 'say', 'you', 'say', '""', 'oh', 'sing', 'one', 'you', 'know', '""', 'but', 'I', 'promise', 'you', 'this', 'I', ""'"", 'll', 'always', 'look', 'out', 'for', 'you', 'yeah', 'that', ""'"", 's', 'what', 'I', ""'"", 'll', 'do', 'I', 'say', 'oh', 'I', 'say', 'oh', 'my', 'heart', 'be', 'yours', 'it', ""'"", 's', 'you', 'that', 'I', 'hold', 'on', 'to', 'yeah', 'that', ""'"", 's', 'what', 'I', 'do', 'and', 'I', 'know', 'I', 'be', 'wrong', 'but', 'I', 'win', ""'"", 't', 'let', 'you', 'down', 'oh', 'yeah', 'oh', 'yeah', 'oh', 'yeah', 'I', 'will', 'yes', 'I', 'will', 'I', 'say', 'oh', 'I', 'cry', 'oh', 'yeah', 'I', 'see', 'spark', 'yeah', 'I', 'see', 'spark', 'and', 'I', 'see', 'spark', 'yeah', 'I', 'see', 'spark', 'sing', 'it', 'out', 'la', 'la', 'la', 'la', 'oh', 'la', 'la', 'la', 'la', 'oh', 'la', 'la', 'la', 'la', 'oh']"
+In My Place,"In my place, in my place
+Were lines that I couldn’t change
+I was lost, oh yeah
+
+And I was lost, I was lost
+Crossed lines I shouldn’t have crossed
+I was lost, oh yeah
+
+Yeah, how long must you wait for it?
+Yeah, how long must you pay for it?
+Yeah, how long must you wait for it?
+For it
+
+I was scared, I was scared
+Tired and under-prepared
+But I wait for it
+
+And if you go, if you go
+And leave me down here on my own
+Then I’ll wait for you, yeah
+
+Yeah, how long must you wait for it?
+Yeah, how long must you pay for it?
+Yeah, how long must you wait for it?
+For it
+
+Sing it please, please, please
+Come back and sing to me
+To me, me
+
+Come on and sing it out, now, now
+Come on and sing it out
+To me, me
+Come back and sing
+
+In my place, in my place
+Were lines that I couldn’t change
+I was lost, oh yeah
+Oh yeah","['in', 'my', 'place', 'in', 'my', 'place', 'were', 'lines', 'that', 'i', 'couldn', '’', 't', 'change', 'i', 'was', 'lost', 'oh', 'yeah', 'and', 'i', 'was', 'lost', 'i', 'was', 'lost', 'crossed', 'lines', 'i', 'shouldn', '’', 't', 'have', 'crossed', 'i', 'was', 'lost', 'oh', 'yeah', 'yeah', 'how', 'long', 'must', 'you', 'wait', 'for', 'it', 'yeah', 'how', 'long', 'must', 'you', 'pay', 'for', 'it', 'yeah', 'how', 'long', 'must', 'you', 'wait', 'for', 'it', 'for', 'it', 'i', 'was', 'scared', 'i', 'was', 'scared', 'tired', 'and', 'underprepared', 'but', 'i', 'wait', 'for', 'it', 'and', 'if', 'you', 'go', 'if', 'you', 'go', 'and', 'leave', 'me', 'down', 'here', 'on', 'my', 'own', 'then', 'i', '’', 'll', 'wait', 'for', 'you', 'yeah', 'yeah', 'how', 'long', 'must', 'you', 'wait', 'for', 'it', 'yeah', 'how', 'long', 'must', 'you', 'pay', 'for', 'it', 'yeah', 'how', 'long', 'must', 'you', 'wait', 'for', 'it', 'for', 'it', 'sing', 'it', 'please', 'please', 'please', 'come', 'back', 'and', 'sing', 'to', 'me', 'to', 'me', 'me', 'come', 'on', 'and', 'sing', 'it', 'out', 'now', 'now', 'come', 'on', 'and', 'sing', 'it', 'out', 'to', 'me', 'me', 'come', 'back', 'and', 'sing', 'in', 'my', 'place', 'in', 'my', 'place', 'were', 'lines', 'that', 'i', 'couldn', '’', 't', 'change', 'i', 'was', 'lost', 'oh', 'yeah', 'oh', 'yeah']","['ADP', 'PRON', 'NOUN', 'ADP', 'PRON', 'NOUN', 'AUX', 'NOUN', 'PRON', 'PRON', 'PROPN', 'PUNCT', 'PROPN', 'NOUN', 'PRON', 'AUX', 'VERB', 'INTJ', 'INTJ', 'CCONJ', 'PRON', 'AUX', 'VERB', 'PRON', 'AUX', 'VERB', 'VERB', 'NOUN', 'PRON', 'VERB', 'PUNCT', 'PROPN', 'AUX', 'VERB', 'PRON', 'AUX', 'VERB', 'INTJ', 'INTJ', 'INTJ', 'SCONJ', 'ADV', 'AUX', 'PRON', 'VERB', 'ADP', 'PRON', 'INTJ', 'SCONJ', 'ADV', 'AUX', 'PRON', 'VERB', 'ADP', 'PRON', 'INTJ', 'SCONJ', 'ADV', 'AUX', 'PRON', 'VERB', 'ADP', 'PRON', 'ADP', 'PRON', 'PRON', 'AUX', 'ADJ', 'PRON', 'AUX', 'ADJ', 'ADJ', 'CCONJ', 'ADJ', 'CCONJ', 'PRON', 'VERB', 'ADP', 'PRON', 'CCONJ', 'SCONJ', 'PRON', 'VERB', 'SCONJ', 'PRON', 'VERB', 'CCONJ', 'VERB', 'PRON', 'ADP', 'ADV', 'ADP', 'PRON', 'ADJ', 'ADV', 'PRON', 'PUNCT', 'AUX', 'VERB', 'ADP', 'PRON', 'INTJ', 'INTJ', 'SCONJ', 'ADV', 'AUX', 'PRON', 'VERB', 'ADP', 'PRON', 'INTJ', 'SCONJ', 'ADV', 'AUX', 'PRON', 'VERB', 'ADP', 'PRON', 'INTJ', 'SCONJ', 'ADV', 'AUX', 'PRON', 'VERB', 'ADP', 'PRON', 'ADP', 'PRON', 'VERB', 'PRON', 'INTJ', 'INTJ', 'INTJ', 'VERB', 'ADV', 'CCONJ', 'VERB', 'ADP', 'PRON', 'ADP', 'PRON', 'PRON', 'VERB', 'ADP', 'CCONJ', 'VERB', 'PRON', 'ADP', 'ADV', 'ADV', 'VERB', 'ADP', 'CCONJ', 'VERB', 'PRON', 'ADP', 'ADP', 'PRON', 'PRON', 'VERB', 'ADV', 'CCONJ', 'VERB', 'ADP', 'PRON', 'NOUN', 'ADP', 'PRON', 'NOUN', 'AUX', 'NOUN', 'PRON', 'PRON', 'PROPN', 'PUNCT', 'PROPN', 'NOUN', 'PRON', 'AUX', 'VERB', 'INTJ', 'INTJ', 'INTJ', 'INTJ']","['in', 'my', 'place', 'in', 'my', 'place', 'be', 'line', 'that', 'I', 'couldn', ""'"", 't', 'change', 'I', 'be', 'lose', 'oh', 'yeah', 'and', 'I', 'be', 'lose', 'I', 'be', 'lose', 'cross', 'line', 'I', 'shouldn', ""'"", 't', 'have', 'cross', 'I', 'be', 'lose', 'oh', 'yeah', 'yeah', 'how', 'long', 'must', 'you', 'wait', 'for', 'it', 'yeah', 'how', 'long', 'must', 'you', 'pay', 'for', 'it', 'yeah', 'how', 'long', 'must', 'you', 'wait', 'for', 'it', 'for', 'it', 'I', 'be', 'scared', 'I', 'be', 'scared', 'tired', 'and', 'underprepared', 'but', 'I', 'wait', 'for', 'it', 'and', 'if', 'you', 'go', 'if', 'you', 'go', 'and', 'leave', 'I', 'down', 'here', 'on', 'my', 'own', 'then', 'I', ""'"", 'll', 'wait', 'for', 'you', 'yeah', 'yeah', 'how', 'long', 'must', 'you', 'wait', 'for', 'it', 'yeah', 'how', 'long', 'must', 'you', 'pay', 'for', 'it', 'yeah', 'how', 'long', 'must', 'you', 'wait', 'for', 'it', 'for', 'it', 'sing', 'it', 'please', 'please', 'please', 'come', 'back', 'and', 'sing', 'to', 'I', 'to', 'I', 'I', 'come', 'on', 'and', 'sing', 'it', 'out', 'now', 'now', 'come', 'on', 'and', 'sing', 'it', 'out', 'to', 'I', 'I', 'come', 'back', 'and', 'sing', 'in', 'my', 'place', 'in', 'my', 'place', 'be', 'line', 'that', 'I', 'couldn', ""'"", 't', 'change', 'I', 'be', 'lose', 'oh', 'yeah', 'oh', 'yeah']"
+Viva La Vida,"I used to rule the world
+Seas would rise when I gave the word
+Now in the morning I sleep alone
+Sweep the streets I used to own
+
+I used to roll the dice
+Feel the fear in my enemy’s eyes
+Listened as the crowd would sing
+Now the old king is dead long live the king
+One minute I held the key
+Next the walls were closed on me
+And I discovered that my castles stand
+Upon pillars of salt and pillars of sand
+
+I hear Jerusalem bells a-ringing
+Roman cavalry choirs are singing
+Be my mirror, my sword and shield
+Missionaries in a foreign field
+For some reason I can’t explain
+Once you’d gone there was never
+Never an honest word
+And that was when I ruled the world
+
+It was a wicked and wild wind
+Blew down the doors to let me in
+Shattered windows and the sound of drums
+People couldn’t believe what I’d become
+Revolutionaries wait
+For my head on a silver plate
+Just a puppet on a lonely string
+Oh who would ever want to be king?
+
+I hear Jerusalem bells a-ringing
+Roman cavalry choirs are singing
+Be my mirror, my sword and shield
+My missionaries in a foreign field
+For some reason I can’t explain
+I know St Peter won’t call my name
+Never an honest word
+But that was when I ruled the world
+
+Hear Jerusalem bells a-ringing
+Roman cavalry choirs are singing
+Be my mirror, my sword and shield
+My missionaries in a foreign field
+For some reason I can’t explain
+I know St Peter won’t call my name
+Never an honest word
+But that was when I ruled the world","['i', 'used', 'to', 'rule', 'the', 'world', 'seas', 'would', 'rise', 'when', 'i', 'gave', 'the', 'word', 'now', 'in', 'the', 'morning', 'i', 'sleep', 'alone', 'sweep', 'the', 'streets', 'i', 'used', 'to', 'own', 'i', 'used', 'to', 'roll', 'the', 'dice', 'feel', 'the', 'fear', 'in', 'my', 'enemy', '’', 's', 'eyes', 'listened', 'as', 'the', 'crowd', 'would', 'sing', 'now', 'the', 'old', 'king', 'is', 'dead', 'long', 'live', 'the', 'king', 'one', 'minute', 'i', 'held', 'the', 'key', 'next', 'the', 'walls', 'were', 'closed', 'on', 'me', 'and', 'i', 'discovered', 'that', 'my', 'castles', 'stand', 'upon', 'pillars', 'of', 'salt', 'and', 'pillars', 'of', 'sand', 'i', 'hear', 'jerusalem', 'bells', 'aringing', 'roman', 'cavalry', 'choirs', 'are', 'singing', 'be', 'my', 'mirror', 'my', 'sword', 'and', 'shield', 'missionaries', 'in', 'a', 'foreign', 'field', 'for', 'some', 'reason', 'i', 'can', '’', 't', 'explain', 'once', 'you', '’', 'd', 'gone', 'there', 'was', 'never', 'never', 'an', 'honest', 'word', 'and', 'that', 'was', 'when', 'i', 'ruled', 'the', 'world', 'it', 'was', 'a', 'wicked', 'and', 'wild', 'wind', 'blew', 'down', 'the', 'doors', 'to', 'let', 'me', 'in', 'shattered', 'windows', 'and', 'the', 'sound', 'of', 'drums', 'people', 'couldn', '’', 't', 'believe', 'what', 'i', '’', 'd', 'become', 'revolutionaries', 'wait', 'for', 'my', 'head', 'on', 'a', 'silver', 'plate', 'just', 'a', 'puppet', 'on', 'a', 'lonely', 'string', 'oh', 'who', 'would', 'ever', 'want', 'to', 'be', 'king', 'i', 'hear', 'jerusalem', 'bells', 'aringing', 'roman', 'cavalry', 'choirs', 'are', 'singing', 'be', 'my', 'mirror', 'my', 'sword', 'and', 'shield', 'my', 'missionaries', 'in', 'a', 'foreign', 'field', 'for', 'some', 'reason', 'i', 'can', '’', 't', 'explain', 'i', 'know', 'st', 'peter', 'won', '’', 't', 'call', 'my', 'name', 'never', 'an', 'honest', 'word', 'but', 'that', 'was', 'when', 'i', 'ruled', 'the', 'world', 'hear', 'jerusalem', 'bells', 'aringing', 'roman', 'cavalry', 'choirs', 'are', 'singing', 'be', 'my', 'mirror', 'my', 'sword', 'and', 'shield', 'my', 'missionaries', 'in', 'a', 'foreign', 'field', 'for', 'some', 'reason', 'i', 'can', '’', 't', 'explain', 'i', 'know', 'st', 'peter', 'won', '’', 't', 'call', 'my', 'name', 'never', 'an', 'honest', 'word', 'but', 'that', 'was', 'when', 'i', 'ruled', 'the', 'world']","['PRON', 'VERB', 'PART', 'VERB', 'DET', 'NOUN', 'NOUN', 'AUX', 'VERB', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'ADV', 'ADP', 'DET', 'NOUN', 'PRON', 'VERB', 'ADV', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'PART', 'VERB', 'PRON', 'VERB', 'PART', 'VERB', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'PUNCT', 'PART', 'NOUN', 'VERB', 'SCONJ', 'DET', 'NOUN', 'AUX', 'VERB', 'ADV', 'DET', 'ADJ', 'NOUN', 'AUX', 'ADJ', 'ADV', 'VERB', 'DET', 'NOUN', 'NUM', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'AUX', 'VERB', 'ADP', 'PRON', 'CCONJ', 'PRON', 'VERB', 'SCONJ', 'PRON', 'NOUN', 'VERB', 'SCONJ', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'PRON', 'VERB', 'PROPN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'AUX', 'VERB', 'AUX', 'PRON', 'NOUN', 'PRON', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'VERB', 'SCONJ', 'PRON', 'PUNCT', 'X', 'VERB', 'PRON', 'VERB', 'ADV', 'ADV', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'PRON', 'AUX', 'DET', 'ADJ', 'CCONJ', 'ADJ', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'PART', 'VERB', 'PRON', 'ADP', 'VERB', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'ADP', 'PROPN', 'PROPN', 'PROPN', 'PUNCT', 'PROPN', 'VERB', 'PRON', 'PRON', 'VERB', 'AUX', 'NOUN', 'NOUN', 'VERB', 'ADP', 'PRON', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADV', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'INTJ', 'PRON', 'AUX', 'ADV', 'VERB', 'PART', 'AUX', 'NOUN', 'PRON', 'VERB', 'PROPN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'AUX', 'VERB', 'AUX', 'PRON', 'NOUN', 'PRON', 'NOUN', 'CCONJ', 'VERB', 'PRON', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'VERB', 'PRON', 'VERB', 'PROPN', 'PROPN', 'VERB', 'PUNCT', 'PROPN', 'VERB', 'PRON', 'NOUN', 'ADV', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN', 'VERB', 'PROPN', 'NOUN', 'VERB', 'ADJ', 'NOUN', 'NOUN', 'AUX', 'VERB', 'AUX', 'PRON', 'NOUN', 'PRON', 'NOUN', 'CCONJ', 'VERB', 'PRON', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'VERB', 'PRON', 'VERB', 'PROPN', 'PROPN', 'VERB', 'PUNCT', 'PROPN', 'VERB', 'PRON', 'NOUN', 'ADV', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'PRON', 'AUX', 'SCONJ', 'PRON', 'VERB', 'DET', 'NOUN']","['I', 'use', 'to', 'rule', 'the', 'world', 'sea', 'would', 'rise', 'when', 'I', 'give', 'the', 'word', 'now', 'in', 'the', 'morning', 'I', 'sleep', 'alone', 'sweep', 'the', 'street', 'I', 'use', 'to', 'own', 'I', 'use', 'to', 'roll', 'the', 'dice', 'feel', 'the', 'fear', 'in', 'my', 'enemy', ""'"", 's', 'eye', 'listen', 'as', 'the', 'crowd', 'would', 'sing', 'now', 'the', 'old', 'king', 'be', 'dead', 'long', 'live', 'the', 'king', 'one', 'minute', 'I', 'hold', 'the', 'key', 'next', 'the', 'wall', 'be', 'close', 'on', 'I', 'and', 'I', 'discover', 'that', 'my', 'castle', 'stand', 'upon', 'pillar', 'of', 'salt', 'and', 'pillar', 'of', 'sand', 'I', 'hear', 'jerusalem', 'bell', 'aringe', 'roman', 'cavalry', 'choir', 'be', 'singe', 'be', 'my', 'mirror', 'my', 'sword', 'and', 'shield', 'missionary', 'in', 'a', 'foreign', 'field', 'for', 'some', 'reason', 'I', 'can', ""'"", 't', 'explain', 'once', 'you', ""'"", 'd', 'go', 'there', 'be', 'never', 'never', 'an', 'honest', 'word', 'and', 'that', 'be', 'when', 'I', 'rule', 'the', 'world', 'it', 'be', 'a', 'wicked', 'and', 'wild', 'wind', 'blow', 'down', 'the', 'door', 'to', 'let', 'I', 'in', 'shatter', 'window', 'and', 'the', 'sound', 'of', 'drums', 'people', 'couldn', ""'"", 't', 'believe', 'what', 'I', '’', 'd', 'become', 'revolutionary', 'wait', 'for', 'my', 'head', 'on', 'a', 'silver', 'plate', 'just', 'a', 'puppet', 'on', 'a', 'lonely', 'string', 'oh', 'who', 'would', 'ever', 'want', 'to', 'be', 'king', 'I', 'hear', 'jerusalem', 'bell', 'aringe', 'roman', 'cavalry', 'choir', 'be', 'singe', 'be', 'my', 'mirror', 'my', 'sword', 'and', 'shield', 'my', 'missionary', 'in', 'a', 'foreign', 'field', 'for', 'some', 'reason', 'I', 'can', ""'"", 't', 'explain', 'I', 'know', 'st', 'peter', 'win', ""'"", 't', 'call', 'my', 'name', 'never', 'an', 'honest', 'word', 'but', 'that', 'be', 'when', 'I', 'rule', 'the', 'world', 'hear', 'jerusalem', 'bell', 'aringe', 'roman', 'cavalry', 'choir', 'be', 'singe', 'be', 'my', 'mirror', 'my', 'sword', 'and', 'shield', 'my', 'missionary', 'in', 'a', 'foreign', 'field', 'for', 'some', 'reason', 'I', 'can', ""'"", 't', 'explain', 'I', 'know', 'st', 'peter', 'win', ""'"", 't', 'call', 'my', 'name', 'never', 'an', 'honest', 'word', 'but', 'that', 'be', 'when', 'I', 'rule', 'the', 'world']"
+Paradise,"When she was just a girl
+She expected the world
+But it flew away from her reach so
+She ran away in her sleep
+And dreamed of
+Para-para-paradise, Para-para-paradise, Para-para-paradise
+Every time she closed her eyes
+
+When she was just a girl
+She expected the world
+But it flew away from her reach
+And the bullets catch in her teeth
+Life goes on, it gets so heavy
+The wheel breaks the butterfly
+Every tear a waterfall
+In the night the stormy night she’ll close her eyes
+In the night the stormy night away she’d fly
+
+And dreams of
+Para-para-paradise
+Para-para-paradise
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh
+She’d dream of
+Para-para-paradise
+Para-para-paradise
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh-oh
+
+Lalalalalalalalalalala
+And so lying underneath those stormy skies
+She’d say, “oh, ohohohoh I know the sun must set to rise”
+
+This could be
+Para-para-paradise
+Para-para-paradise
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh
+
+This could be
+Para-para-paradise
+Para-para-paradise
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh
+
+This could be
+Para-para-paradise
+Para-para-paradise
+Para-para-paradise
+Oh oh oh oh oh oh-oh-oh","['when', 'she', 'was', 'just', 'a', 'girl', 'she', 'expected', 'the', 'world', 'but', 'it', 'flew', 'away', 'from', 'her', 'reach', 'so', 'she', 'ran', 'away', 'in', 'her', 'sleep', 'and', 'dreamed', 'of', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'every', 'time', 'she', 'closed', 'her', 'eyes', 'when', 'she', 'was', 'just', 'a', 'girl', 'she', 'expected', 'the', 'world', 'but', 'it', 'flew', 'away', 'from', 'her', 'reach', 'and', 'the', 'bullets', 'catch', 'in', 'her', 'teeth', 'life', 'goes', 'on', 'it', 'gets', 'so', 'heavy', 'the', 'wheel', 'breaks', 'the', 'butterfly', 'every', 'tear', 'a', 'waterfall', 'in', 'the', 'night', 'the', 'stormy', 'night', 'she', '’', 'll', 'close', 'her', 'eyes', 'in', 'the', 'night', 'the', 'stormy', 'night', 'away', 'she', '’', 'd', 'fly', 'and', 'dreams', 'of', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohoh', 'she', '’', 'd', 'dream', 'of', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohohoh', 'lalalalalalalalalalala', 'and', 'so', 'lying', 'underneath', 'those', 'stormy', 'skies', 'she', '’', 'd', 'say', '“', 'oh', 'ohohohoh', 'i', 'know', 'the', 'sun', 'must', 'set', 'to', 'rise', '”', 'this', 'could', 'be', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohoh', 'this', 'could', 'be', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohoh', 'this', 'could', 'be', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohoh']","['SCONJ', 'PRON', 'AUX', 'ADV', 'DET', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'ADV', 'ADP', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'ADV', 'ADP', 'PRON', 'NOUN', 'CCONJ', 'VERB', 'ADP', 'NOUN', 'INTJ', 'ADV', 'DET', 'NOUN', 'PRON', 'VERB', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'AUX', 'ADV', 'DET', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'ADV', 'ADP', 'PRON', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'VERB', 'ADP', 'PRON', 'NOUN', 'NOUN', 'VERB', 'ADP', 'PRON', 'VERB', 'ADV', 'ADJ', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'DET', 'ADJ', 'NOUN', 'PRON', 'PUNCT', 'AUX', 'VERB', 'PRON', 'NOUN', 'ADP', 'DET', 'NOUN', 'DET', 'ADJ', 'NOUN', 'ADV', 'PRON', 'PUNCT', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'NOUN', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'PRON', 'PUNCT', 'NOUN', 'NOUN', 'ADP', 'NOUN', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'ADJ', 'NOUN', 'CCONJ', 'ADV', 'VERB', 'ADP', 'DET', 'ADJ', 'NOUN', 'PRON', 'PUNCT', 'X', 'VERB', 'PUNCT', 'INTJ', 'INTJ', 'PRON', 'VERB', 'DET', 'NOUN', 'AUX', 'VERB', 'PART', 'VERB', 'PUNCT', 'PRON', 'AUX', 'AUX', 'ADV', 'ADV', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'PRON', 'AUX', 'AUX', 'ADV', 'ADV', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'PRON', 'AUX', 'AUX', 'ADV', 'ADV', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ', 'INTJ']","['when', 'she', 'be', 'just', 'a', 'girl', 'she', 'expect', 'the', 'world', 'but', 'it', 'fly', 'away', 'from', 'her', 'reach', 'so', 'she', 'run', 'away', 'in', 'her', 'sleep', 'and', 'dream', 'of', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'every', 'time', 'she', 'close', 'her', 'eye', 'when', 'she', 'be', 'just', 'a', 'girl', 'she', 'expect', 'the', 'world', 'but', 'it', 'fly', 'away', 'from', 'her', 'reach', 'and', 'the', 'bullet', 'catch', 'in', 'her', 'tooth', 'life', 'go', 'on', 'it', 'get', 'so', 'heavy', 'the', 'wheel', 'break', 'the', 'butterfly', 'every', 'tear', 'a', 'waterfall', 'in', 'the', 'night', 'the', 'stormy', 'night', 'she', ""'"", 'll', 'close', 'her', 'eye', 'in', 'the', 'night', 'the', 'stormy', 'night', 'away', 'she', ""'"", 'd', 'fly', 'and', 'dream', 'of', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohoh', 'she', ""'"", 'd', 'dream', 'of', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohohoh', 'lalalalalalalalalalala', 'and', 'so', 'lie', 'underneath', 'those', 'stormy', 'sky', 'she', ""'"", 'd', 'say', '""', 'oh', 'ohohohoh', 'I', 'know', 'the', 'sun', 'must', 'set', 'to', 'rise', '""', 'this', 'could', 'be', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohoh', 'this', 'could', 'be', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohoh', 'this', 'could', 'be', 'paraparaparadise', 'paraparaparadise', 'paraparaparadise', 'oh', 'oh', 'oh', 'oh', 'oh', 'ohohoh']"
+Higher Power,"Sometimes I just can’t take it
+Sometimes I just can’t take it and it isn’t alright
+I’m not going to make it
+And I think my shoe’s untied
+I’m like a broken record
+I’m like a broken record and
+I’m not playing right
+Drocer nekorb a ekil mi
+Til you tell me on your heavenly phone
+
+To hold tight, hold tight
+Come on, come on
+Come on, come on
+Come on, come on
+Come on, come on
+Don’t let go
+Hold tight, hold tight
+Hold tight, hold tight
+It’s alright it’s alright she said
+I got my hands up shaking just to let you know that
+
+You’ve got a higher power
+You got me singing every second, dancing every hour
+Oh yeah you’ve got a higher power
+And you’re really someone I want to know
+
+This boy is electric
+This boy is electric and you’re sparkling light
+The universe connected, and I’m buzzing
+Night after night after night
+
+This joy is electric
+This joy is electric and you’re circuiting through
+I’m so happy that I’m alive
+Happy I’m alive at the same time as you cause
+
+You’ve got a higher power
+You got me singing every second, dancing every hour
+Oh yeah you’ve got a higher power
+And you’re really someone I want to know
+
+You got yeah you got a higher
+You got yeah you got a higher
+You got yeah you got a higher
+You got
+You got oh you got a higher
+You got yeah you got a higher
+You’ve got oh you’ve got a higher
+I got my hands up and shaking just to let you know now
+
+You’ve got a higher power
+You got me singing every second, dancing any hour
+You’ve got a higher power
+You’re once in any lifetime
+I’m going a million miles an hour
+When for so long
+I’d been down on my knees
+Then your love song
+Saved me over and over
+For so long
+I’d been down on my knees
+Til your love song
+Floats me on
+
+","['sometimes', 'i', 'just', 'can', '’', 't', 'take', 'it', 'sometimes', 'i', 'just', 'can', '’', 't', 'take', 'it', 'and', 'it', 'isn', '’', 't', 'alright', 'i', '’', 'm', 'not', 'going', 'to', 'make', 'it', 'and', 'i', 'think', 'my', 'shoe', '’', 's', 'untied', 'i', '’', 'm', 'like', 'a', 'broken', 'record', 'i', '’', 'm', 'like', 'a', 'broken', 'record', 'and', 'i', '’', 'm', 'not', 'playing', 'right', 'drocer', 'nekorb', 'a', 'ekil', 'mi', 'til', 'you', 'tell', 'me', 'on', 'your', 'heavenly', 'phone', 'to', 'hold', 'tight', 'hold', 'tight', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'don', '’', 't', 'let', 'go', 'hold', 'tight', 'hold', 'tight', 'hold', 'tight', 'hold', 'tight', 'it', '’', 's', 'alright', 'it', '’', 's', 'alright', 'she', 'said', 'i', 'got', 'my', 'hands', 'up', 'shaking', 'just', 'to', 'let', 'you', 'know', 'that', 'you', '’', 've', 'got', 'a', 'higher', 'power', 'you', 'got', 'me', 'singing', 'every', 'second', 'dancing', 'every', 'hour', 'oh', 'yeah', 'you', '’', 've', 'got', 'a', 'higher', 'power', 'and', 'you', '’', 're', 'really', 'someone', 'i', 'want', 'to', 'know', 'this', 'boy', 'is', 'electric', 'this', 'boy', 'is', 'electric', 'and', 'you', '’', 're', 'sparkling', 'light', 'the', 'universe', 'connected', 'and', 'i', '’', 'm', 'buzzing', 'night', 'after', 'night', 'after', 'night', 'this', 'joy', 'is', 'electric', 'this', 'joy', 'is', 'electric', 'and', 'you', '’', 're', 'circuiting', 'through', 'i', '’', 'm', 'so', 'happy', 'that', 'i', '’', 'm', 'alive', 'happy', 'i', '’', 'm', 'alive', 'at', 'the', 'same', 'time', 'as', 'you', 'cause', 'you', '’', 've', 'got', 'a', 'higher', 'power', 'you', 'got', 'me', 'singing', 'every', 'second', 'dancing', 'every', 'hour', 'oh', 'yeah', 'you', '’', 've', 'got', 'a', 'higher', 'power', 'and', 'you', '’', 're', 'really', 'someone', 'i', 'want', 'to', 'know', 'you', 'got', 'yeah', 'you', 'got', 'a', 'higher', 'you', 'got', 'yeah', 'you', 'got', 'a', 'higher', 'you', 'got', 'yeah', 'you', 'got', 'a', 'higher', 'you', 'got', 'you', 'got', 'oh', 'you', 'got', 'a', 'higher', 'you', 'got', 'yeah', 'you', 'got', 'a', 'higher', 'you', '’', 've', 'got', 'oh', 'you', '’', 've', 'got', 'a', 'higher', 'i', 'got', 'my', 'hands', 'up', 'and', 'shaking', 'just', 'to', 'let', 'you', 'know', 'now', 'you', '’', 've', 'got', 'a', 'higher', 'power', 'you', 'got', 'me', 'singing', 'every', 'second', 'dancing', 'any', 'hour', 'you', '’', 've', 'got', 'a', 'higher', 'power', 'you', '’', 're', 'once', 'in', 'any', 'lifetime', 'i', '’', 'm', 'going', 'a', 'million', 'miles', 'an', 'hour', 'when', 'for', 'so', 'long', 'i', '’', 'd', 'been', 'down', 'on', 'my', 'knees', 'then', 'your', 'love', 'song', 'saved', 'me', 'over', 'and', 'over', 'for', 'so', 'long', 'i', '’', 'd', 'been', 'down', 'on', 'my', 'knees', 'til', 'your', 'love', 'song', 'floats', 'me', 'on']","['ADV', 'PRON', 'ADV', 'AUX', 'PUNCT', 'PROPN', 'VERB', 'PRON', 'ADV', 'PRON', 'ADV', 'AUX', 'PUNCT', 'PROPN', 'VERB', 'PRON', 'CCONJ', 'PRON', 'VERB', 'PUNCT', 'INTJ', 'INTJ', 'PRON', 'PUNCT', 'AUX', 'PART', 'VERB', 'PART', 'VERB', 'PRON', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'PUNCT', 'VERB', 'VERB', 'PRON', 'PUNCT', 'VERB', 'ADP', 'DET', 'VERB', 'NOUN', 'PRON', 'PUNCT', 'VERB', 'ADP', 'DET', 'VERB', 'NOUN', 'CCONJ', 'PRON', 'PUNCT', 'AUX', 'PART', 'VERB', 'ADJ', 'NOUN', 'VERB', 'DET', 'PROPN', 'PROPN', 'SCONJ', 'PRON', 'VERB', 'PRON', 'ADP', 'PRON', 'ADJ', 'NOUN', 'PART', 'VERB', 'ADJ', 'NOUN', 'ADJ', 'VERB', 'ADP', 'NOUN', 'ADP', 'VERB', 'ADP', 'VERB', 'ADP', 'VERB', 'ADP', 'VERB', 'ADP', 'VERB', 'ADP', 'VERB', 'ADP', 'PROPN', 'PUNCT', 'PROPN', 'VERB', 'VERB', 'VERB', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'NOUN', 'ADJ', 'PRON', 'PUNCT', 'VERB', 'INTJ', 'PRON', 'PUNCT', 'VERB', 'INTJ', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'NOUN', 'ADP', 'VERB', 'ADV', 'PART', 'VERB', 'PRON', 'VERB', 'SCONJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'ADJ', 'NOUN', 'PRON', 'VERB', 'PRON', 'VERB', 'DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'INTJ', 'INTJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'PRON', 'PUNCT', 'ADP', 'ADV', 'PRON', 'PRON', 'VERB', 'PART', 'VERB', 'DET', 'NOUN', 'AUX', 'ADJ', 'DET', 'NOUN', 'AUX', 'ADJ', 'CCONJ', 'PRON', 'PUNCT', 'ADP', 'VERB', 'NOUN', 'DET', 'NOUN', 'VERB', 'CCONJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'DET', 'NOUN', 'AUX', 'ADJ', 'DET', 'NOUN', 'AUX', 'ADJ', 'CCONJ', 'PRON', 'PUNCT', 'ADP', 'VERB', 'ADP', 'PRON', 'PUNCT', 'VERB', 'ADV', 'ADJ', 'SCONJ', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'ADJ', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'ADP', 'DET', 'ADJ', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'ADJ', 'NOUN', 'PRON', 'VERB', 'PRON', 'VERB', 'DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'INTJ', 'INTJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'PRON', 'PUNCT', 'ADP', 'ADV', 'PRON', 'PRON', 'VERB', 'PART', 'VERB', 'PRON', 'VERB', 'INTJ', 'PRON', 'VERB', 'DET', 'ADJ', 'PRON', 'VERB', 'INTJ', 'PRON', 'VERB', 'DET', 'ADJ', 'PRON', 'VERB', 'INTJ', 'PRON', 'VERB', 'DET', 'ADJ', 'PRON', 'VERB', 'PRON', 'VERB', 'INTJ', 'PRON', 'VERB', 'DET', 'ADJ', 'PRON', 'VERB', 'INTJ', 'PRON', 'VERB', 'PRON', 'ADJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'INTJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'ADJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'ADP', 'CCONJ', 'VERB', 'ADV', 'PART', 'VERB', 'PRON', 'VERB', 'ADV', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'ADJ', 'NOUN', 'PRON', 'VERB', 'PRON', 'VERB', 'DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'ADJ', 'NOUN', 'PRON', 'PUNCT', 'ADP', 'ADV', 'ADP', 'DET', 'NOUN', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'NUM', 'NOUN', 'DET', 'NOUN', 'SCONJ', 'ADP', 'ADV', 'ADV', 'PRON', 'PUNCT', 'NOUN', 'AUX', 'ADV', 'ADP', 'PRON', 'NOUN', 'ADV', 'PRON', 'NOUN', 'NOUN', 'VERB', 'PRON', 'ADV', 'CCONJ', 'ADV', 'ADP', 'ADV', 'ADV', 'PRON', 'PUNCT', 'NOUN', 'AUX', 'ADV', 'ADP', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'NOUN', 'NOUN', 'VERB', 'PRON', 'ADP']","['sometimes', 'I', 'just', 'can', ""'"", 't', 'take', 'it', 'sometimes', 'I', 'just', 'can', ""'"", 't', 'take', 'it', 'and', 'it', 'isn', ""'"", 't', 'alright', 'I', ""'"", 'm', 'not', 'go', 'to', 'make', 'it', 'and', 'I', 'think', 'my', 'shoe', ""'"", 's', 'untie', 'I', ""'"", 'm', 'like', 'a', 'break', 'record', 'I', ""'"", 'm', 'like', 'a', 'break', 'record', 'and', 'I', ""'"", 'm', 'not', 'play', 'right', 'drocer', 'nekorb', 'a', 'ekil', 'mi', 'til', 'you', 'tell', 'I', 'on', 'your', 'heavenly', 'phone', 'to', 'hold', 'tight', 'hold', 'tight', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'come', 'on', 'don', ""'"", 't', 'let', 'go', 'hold', 'tight', 'hold', 'tight', 'hold', 'tight', 'hold', 'tight', 'it', ""'"", 's', 'alright', 'it', ""'"", 's', 'alright', 'she', 'say', 'I', 'get', 'my', 'hand', 'up', 'shake', 'just', 'to', 'let', 'you', 'know', 'that', 'you', ""'"", 've', 'get', 'a', 'high', 'power', 'you', 'get', 'I', 'singe', 'every', 'second', 'dancing', 'every', 'hour', 'oh', 'yeah', 'you', ""'"", 've', 'get', 'a', 'high', 'power', 'and', 'you', ""'"", 're', 'really', 'someone', 'I', 'want', 'to', 'know', 'this', 'boy', 'be', 'electric', 'this', 'boy', 'be', 'electric', 'and', 'you', ""'"", 're', 'sparkle', 'light', 'the', 'universe', 'connect', 'and', 'I', ""'"", 'm', 'buzz', 'night', 'after', 'night', 'after', 'night', 'this', 'joy', 'be', 'electric', 'this', 'joy', 'be', 'electric', 'and', 'you', ""'"", 're', 'circuit', 'through', 'I', ""'"", 'm', 'so', 'happy', 'that', 'I', ""'"", 'm', 'alive', 'happy', 'I', ""'"", 'm', 'alive', 'at', 'the', 'same', 'time', 'as', 'you', 'cause', 'you', ""'"", 've', 'get', 'a', 'high', 'power', 'you', 'get', 'I', 'singe', 'every', 'second', 'dancing', 'every', 'hour', 'oh', 'yeah', 'you', ""'"", 've', 'get', 'a', 'high', 'power', 'and', 'you', ""'"", 're', 'really', 'someone', 'I', 'want', 'to', 'know', 'you', 'get', 'yeah', 'you', 'get', 'a', 'high', 'you', 'get', 'yeah', 'you', 'get', 'a', 'high', 'you', 'get', 'yeah', 'you', 'get', 'a', 'high', 'you', 'get', 'you', 'get', 'oh', 'you', 'get', 'a', 'high', 'you', 'get', 'yeah', 'you', 'get', 'a', 'high', 'you', ""'"", 've', 'get', 'oh', 'you', ""'"", 've', 'get', 'a', 'high', 'I', 'get', 'my', 'hand', 'up', 'and', 'shake', 'just', 'to', 'let', 'you', 'know', 'now', 'you', ""'"", 've', 'get', 'a', 'high', 'power', 'you', 'get', 'I', 'singe', 'every', 'second', 'dancing', 'any', 'hour', 'you', ""'"", 've', 'get', 'a', 'high', 'power', 'you', ""'"", 're', 'once', 'in', 'any', 'lifetime', 'I', ""'"", 'm', 'go', 'a', 'million', 'mile', 'an', 'hour', 'when', 'for', 'so', 'long', 'I', ""'"", 'd', 'be', 'down', 'on', 'my', 'knee', 'then', 'your', 'love', 'song', 'save', 'I', 'over', 'and', 'over', 'for', 'so', 'long', 'I', ""'"", 'd', 'be', 'down', 'on', 'my', 'knee', 'til', 'your', 'love', 'song', 'float', 'I', 'on']"
+Everglow,"oh they say people come, say people go
+this particular diamond was extra special
+and though you might be gone, and the world may not know
+still I see you, celestial
+
+like a lion you ran, a goddess you rolled
+like an eagle you circled, in perfect purple
+so how come things move on, how come cars don’t slow
+when it feels like the end of my world
+when I should but I can’t let you go?
+
+but when I’m cold, cold
+oh when I’m cold, cold
+there’s a light that you give me when I’m in shadow
+there’s a feeling you give me, an everglow
+
+like brothers in blood, sisters who ride
+and we swore on that night we’d be friends til we die
+but the changing of winds, and the way waters flow
+life as short as the falling of snow
+and now I’m gonna miss you I know
+
+but when I’m cold, cold
+in water rolled, salt
+I know that you’re with me and the way you will show
+and you’re with me wherever I go
+and you give me this feeling this everglow
+
+oh- I I I I
+what I wouldn’t give for just a moment to hold
+yeah I live for this feeling this everglow
+
+so if you love someone, you should let them know
+oh the light that you left me will everglow","['oh', 'they', 'say', 'people', 'come', 'say', 'people', 'go', 'this', 'particular', 'diamond', 'was', 'extra', 'special', 'and', 'though', 'you', 'might', 'be', 'gone', 'and', 'the', 'world', 'may', 'not', 'know', 'still', 'i', 'see', 'you', 'celestial', 'like', 'a', 'lion', 'you', 'ran', 'a', 'goddess', 'you', 'rolled', 'like', 'an', 'eagle', 'you', 'circled', 'in', 'perfect', 'purple', 'so', 'how', 'come', 'things', 'move', 'on', 'how', 'come', 'cars', 'don', '’', 't', 'slow', 'when', 'it', 'feels', 'like', 'the', 'end', 'of', 'my', 'world', 'when', 'i', 'should', 'but', 'i', 'can', '’', 't', 'let', 'you', 'go', 'but', 'when', 'i', '’', 'm', 'cold', 'cold', 'oh', 'when', 'i', '’', 'm', 'cold', 'cold', 'there', '’', 's', 'a', 'light', 'that', 'you', 'give', 'me', 'when', 'i', '’', 'm', 'in', 'shadow', 'there', '’', 's', 'a', 'feeling', 'you', 'give', 'me', 'an', 'everglow', 'like', 'brothers', 'in', 'blood', 'sisters', 'who', 'ride', 'and', 'we', 'swore', 'on', 'that', 'night', 'we', '’', 'd', 'be', 'friends', 'til', 'we', 'die', 'but', 'the', 'changing', 'of', 'winds', 'and', 'the', 'way', 'waters', 'flow', 'life', 'as', 'short', 'as', 'the', 'falling', 'of', 'snow', 'and', 'now', 'i', '’', 'm', 'gon', 'na', 'miss', 'you', 'i', 'know', 'but', 'when', 'i', '’', 'm', 'cold', 'cold', 'in', 'water', 'rolled', 'salt', 'i', 'know', 'that', 'you', '’', 're', 'with', 'me', 'and', 'the', 'way', 'you', 'will', 'show', 'and', 'you', '’', 're', 'with', 'me', 'wherever', 'i', 'go', 'and', 'you', 'give', 'me', 'this', 'feeling', 'this', 'everglow', 'oh', 'i', 'i', 'i', 'i', 'what', 'i', 'wouldn', '’', 't', 'give', 'for', 'just', 'a', 'moment', 'to', 'hold', 'yeah', 'i', 'live', 'for', 'this', 'feeling', 'this', 'everglow', 'so', 'if', 'you', 'love', 'someone', 'you', 'should', 'let', 'them', 'know', 'oh', 'the', 'light', 'that', 'you', 'left', 'me', 'will', 'everglow']","['INTJ', 'PRON', 'VERB', 'NOUN', 'VERB', 'VERB', 'NOUN', 'VERB', 'DET', 'ADJ', 'NOUN', 'AUX', 'ADJ', 'ADJ', 'CCONJ', 'SCONJ', 'PRON', 'AUX', 'AUX', 'VERB', 'CCONJ', 'DET', 'NOUN', 'AUX', 'PART', 'VERB', 'ADV', 'PRON', 'VERB', 'PRON', 'ADJ', 'ADP', 'DET', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'PRON', 'VERB', 'ADP', 'ADJ', 'NOUN', 'CCONJ', 'SCONJ', 'VERB', 'NOUN', 'VERB', 'ADP', 'SCONJ', 'VERB', 'NOUN', 'PROPN', 'PUNCT', 'NOUN', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'AUX', 'CCONJ', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'VERB', 'PRON', 'VERB', 'CCONJ', 'SCONJ', 'PRON', 'VERB', 'VERB', 'ADJ', 'ADJ', 'INTJ', 'SCONJ', 'PRON', 'VERB', 'VERB', 'ADJ', 'ADJ', 'ADV', 'PUNCT', 'VERB', 'DET', 'NOUN', 'PRON', 'PRON', 'VERB', 'PRON', 'SCONJ', 'PRON', 'VERB', 'VERB', 'ADP', 'NOUN', 'ADV', 'PUNCT', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'PRON', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PRON', 'VERB', 'CCONJ', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'PRON', 'PUNCT', 'VERB', 'AUX', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'CCONJ', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'NOUN', 'VERB', 'NOUN', 'ADV', 'ADJ', 'ADP', 'DET', 'NOUN', 'ADP', 'NOUN', 'CCONJ', 'ADV', 'PRON', 'PUNCT', 'AUX', 'VERB', 'PART', 'VERB', 'PRON', 'PRON', 'VERB', 'CCONJ', 'SCONJ', 'PRON', 'VERB', 'VERB', 'ADJ', 'ADJ', 'ADP', 'NOUN', 'VERB', 'NOUN', 'PRON', 'VERB', 'SCONJ', 'PRON', 'PUNCT', 'ADP', 'ADP', 'PRON', 'CCONJ', 'DET', 'NOUN', 'PRON', 'AUX', 'VERB', 'CCONJ', 'PRON', 'PUNCT', 'ADP', 'ADP', 'PRON', 'SCONJ', 'PRON', 'VERB', 'CCONJ', 'PRON', 'VERB', 'PRON', 'DET', 'NOUN', 'DET', 'NOUN', 'INTJ', 'PRON', 'PRON', 'PRON', 'PRON', 'PRON', 'PRON', 'VERB', 'PUNCT', 'NOUN', 'VERB', 'ADP', 'ADV', 'DET', 'NOUN', 'PART', 'VERB', 'INTJ', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'DET', 'NOUN', 'SCONJ', 'SCONJ', 'PRON', 'VERB', 'PRON', 'PRON', 'AUX', 'VERB', 'PRON', 'VERB', 'INTJ', 'DET', 'NOUN', 'PRON', 'PRON', 'VERB', 'PRON', 'AUX', 'VERB']","['oh', 'they', 'say', 'people', 'come', 'say', 'people', 'go', 'this', 'particular', 'diamond', 'be', 'extra', 'special', 'and', 'though', 'you', 'might', 'be', 'go', 'and', 'the', 'world', 'may', 'not', 'know', 'still', 'I', 'see', 'you', 'celestial', 'like', 'a', 'lion', 'you', 'run', 'a', 'goddess', 'you', 'roll', 'like', 'an', 'eagle', 'you', 'circle', 'in', 'perfect', 'purple', 'so', 'how', 'come', 'thing', 'move', 'on', 'how', 'come', 'car', 'don', ""'"", 't', 'slow', 'when', 'it', 'feel', 'like', 'the', 'end', 'of', 'my', 'world', 'when', 'I', 'should', 'but', 'I', 'can', ""'"", 't', 'let', 'you', 'go', 'but', 'when', 'I', '’', 'm', 'cold', 'cold', 'oh', 'when', 'I', '’', 'm', 'cold', 'cold', 'there', ""'"", 's', 'a', 'light', 'that', 'you', 'give', 'I', 'when', 'I', '’', 'm', 'in', 'shadow', 'there', ""'"", 's', 'a', 'feeling', 'you', 'give', 'I', 'an', 'everglow', 'like', 'brother', 'in', 'blood', 'sister', 'who', 'ride', 'and', 'we', 'swear', 'on', 'that', 'night', 'we', ""'"", 'd', 'be', 'friend', 'til', 'we', 'die', 'but', 'the', 'changing', 'of', 'wind', 'and', 'the', 'way', 'water', 'flow', 'life', 'as', 'short', 'as', 'the', 'falling', 'of', 'snow', 'and', 'now', 'I', ""'"", 'm', 'go', 'to', 'miss', 'you', 'I', 'know', 'but', 'when', 'I', '’', 'm', 'cold', 'cold', 'in', 'water', 'roll', 'salt', 'I', 'know', 'that', 'you', ""'"", 're', 'with', 'I', 'and', 'the', 'way', 'you', 'will', 'show', 'and', 'you', ""'"", 're', 'with', 'I', 'wherever', 'I', 'go', 'and', 'you', 'give', 'I', 'this', 'feeling', 'this', 'everglow', 'oh', 'I', 'I', 'I', 'I', 'what', 'I', 'wouldn', ""'"", 't', 'give', 'for', 'just', 'a', 'moment', 'to', 'hold', 'yeah', 'I', 'live', 'for', 'this', 'feeling', 'this', 'everglow', 'so', 'if', 'you', 'love', 'someone', 'you', 'should', 'let', 'they', 'know', 'oh', 'the', 'light', 'that', 'you', 'leave', 'I', 'will', 'everglow']"
+Magic,"Call it magic
+Call it true
+I call it magic
+When I'm with you
+And I just got broken
+Broken into two
+Still I call it magic
+When I'm next to you
+ 
+And I don't and I don't and I don't and I don't
+No, I don't it's true
+I don't, no I don't, no I don't, no I don't
+Want anybody else but you
+I don't, no I don't, no I don't, no I don't
+No, I don't it's true
+I don't, no I don't, no I don't, no I don't
+Want anybody else but you
+
+Call it magic
+Cut me into two
+And with all your magic
+I disappear from view
+And I can't get over
+Can't get over you
+Still I call it magic
+Such a precious jewel
+
+And I don't and I don't and I don't and I don't
+No, I don't it's true
+I don't, no I don't, no I don't, no I don't
+Want anybody else but you
+I don't, no I don't, no I don't, no I don't
+No, I don't it's true
+I don't, no I don't, no I don't, no I don't
+Want anybody else but you
+
+Want to fall, fall so far
+I want to fall, fall so hard
+And I call it magic
+And I call it true
+I call it magic
+
+And if you were to ask me
+After all that we've been through
+Still believe in magic?
+Yes, I do
+Of course I do","['call', 'it', 'magic', 'call', 'it', 'true', 'i', 'call', 'it', 'magic', 'when', 'im', 'with', 'you', 'and', 'i', 'just', 'got', 'broken', 'broken', 'into', 'two', 'still', 'i', 'call', 'it', 'magic', 'when', 'im', 'next', 'to', 'you', 'and', 'i', 'dont', 'and', 'i', 'dont', 'and', 'i', 'dont', 'and', 'i', 'dont', 'no', 'i', 'dont', 'its', 'true', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'want', 'anybody', 'else', 'but', 'you', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'its', 'true', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'want', 'anybody', 'else', 'but', 'you', 'call', 'it', 'magic', 'cut', 'me', 'into', 'two', 'and', 'with', 'all', 'your', 'magic', 'i', 'disappear', 'from', 'view', 'and', 'i', 'cant', 'get', 'over', 'cant', 'get', 'over', 'you', 'still', 'i', 'call', 'it', 'magic', 'such', 'a', 'precious', 'jewel', 'and', 'i', 'dont', 'and', 'i', 'dont', 'and', 'i', 'dont', 'and', 'i', 'dont', 'no', 'i', 'dont', 'its', 'true', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'want', 'anybody', 'else', 'but', 'you', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'its', 'true', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'no', 'i', 'dont', 'want', 'anybody', 'else', 'but', 'you', 'want', 'to', 'fall', 'fall', 'so', 'far', 'i', 'want', 'to', 'fall', 'fall', 'so', 'hard', 'and', 'i', 'call', 'it', 'magic', 'and', 'i', 'call', 'it', 'true', 'i', 'call', 'it', 'magic', 'and', 'if', 'you', 'were', 'to', 'ask', 'me', 'after', 'all', 'that', 'weve', 'been', 'through', 'still', 'believe', 'in', 'magic', 'yes', 'i', 'do', 'of', 'course', 'i', 'do']","['VERB', 'PRON', 'ADJ', 'VERB', 'PRON', 'ADJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'ADP', 'PRON', 'CCONJ', 'PRON', 'ADV', 'AUX', 'VERB', 'VERB', 'ADP', 'NUM', 'ADV', 'PRON', 'VERB', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'ADJ', 'ADP', 'PRON', 'CCONJ', 'PRON', 'VERB', 'PART', 'CCONJ', 'PRON', 'VERB', 'PART', 'CCONJ', 'PRON', 'VERB', 'PART', 'CCONJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'PRON', 'ADJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'AUX', 'PART', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'PRON', 'ADJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'AUX', 'PART', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'PRON', 'ADP', 'NUM', 'CCONJ', 'ADP', 'DET', 'PRON', 'NOUN', 'PRON', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'PRON', 'AUX', 'PART', 'VERB', 'ADP', 'AUX', 'PART', 'VERB', 'ADP', 'PRON', 'ADV', 'PRON', 'VERB', 'PRON', 'NOUN', 'DET', 'DET', 'ADJ', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'PART', 'CCONJ', 'PRON', 'VERB', 'PART', 'CCONJ', 'PRON', 'VERB', 'PART', 'CCONJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'PRON', 'ADJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'AUX', 'PART', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'PRON', 'ADJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'VERB', 'PART', 'INTJ', 'PRON', 'AUX', 'PART', 'VERB', 'PRON', 'ADV', 'CCONJ', 'PRON', 'VERB', 'PART', 'VERB', 'NOUN', 'ADV', 'ADV', 'PRON', 'VERB', 'PART', 'VERB', 'NOUN', 'ADV', 'ADV', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'PRON', 'ADJ', 'PRON', 'VERB', 'PRON', 'ADJ', 'CCONJ', 'SCONJ', 'PRON', 'AUX', 'PART', 'VERB', 'PRON', 'ADP', 'ADV', 'PRON', 'PRON', 'AUX', 'AUX', 'ADP', 'ADV', 'VERB', 'ADP', 'NOUN', 'INTJ', 'PRON', 'VERB', 'ADV', 'NOUN', 'PRON', 'VERB']","['call', 'it', 'magic', 'call', 'it', 'true', 'I', 'call', 'it', 'magic', 'when', 'I', 'm', 'with', 'you', 'and', 'I', 'just', 'get', 'break', 'break', 'into', 'two', 'still', 'I', 'call', 'it', 'magic', 'when', 'I', 'm', 'next', 'to', 'you', 'and', 'I', 'do', 'not', 'and', 'I', 'do', 'not', 'and', 'I', 'do', 'not', 'and', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'its', 'true', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'want', 'anybody', 'else', 'but', 'you', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'its', 'true', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'want', 'anybody', 'else', 'but', 'you', 'call', 'it', 'magic', 'cut', 'I', 'into', 'two', 'and', 'with', 'all', 'your', 'magic', 'I', 'disappear', 'from', 'view', 'and', 'I', 'can', 'not', 'get', 'over', 'can', 'not', 'get', 'over', 'you', 'still', 'I', 'call', 'it', 'magic', 'such', 'a', 'precious', 'jewel', 'and', 'I', 'do', 'not', 'and', 'I', 'do', 'not', 'and', 'I', 'do', 'not', 'and', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'its', 'true', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'want', 'anybody', 'else', 'but', 'you', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'its', 'true', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'no', 'I', 'do', 'not', 'want', 'anybody', 'else', 'but', 'you', 'want', 'to', 'fall', 'fall', 'so', 'far', 'I', 'want', 'to', 'fall', 'fall', 'so', 'hard', 'and', 'I', 'call', 'it', 'magic', 'and', 'I', 'call', 'it', 'true', 'I', 'call', 'it', 'magic', 'and', 'if', 'you', 'be', 'to', 'ask', 'I', 'after', 'all', 'that', 'we', 've', 'be', 'through', 'still', 'believe', 'in', 'magic', 'yes', 'I', 'do', 'of', 'course', 'I', 'do']"
+Adventure of a Lifetime,"turn your magic on
+Umi she’d say
+everything you want’s a dream away
+and we are legends every day
+that’s what she told me
+
+turn your magic on,
+to me she’d say
+everything you want’s a dream away
+under this pressure under this weight
+we are diamonds
+
+now I feel my heart beating
+I feel my heart underneath my skin
+and I feel my heart beating
+oh you make me feel
+like I’m alive again
+alive again
+oh you make me feel
+like I’m alive again
+
+said I can’t go on, not in this way
+I’m a dream that died by light of day
+gonna hold up half the sky and say
+only I own me
+and I feel my heart beating
+I feel my heart underneath my skin
+oh I can feel my heart beating
+cause you make me feel
+like I’m alive again
+alive again
+oh you make me feel
+like I’m alive again
+
+turn your magic on, Umi she’d say
+everything you want’s a dream away
+under this pressure under this weight
+we are diamonds taking shape
+we are diamonds taking shape
+
+if we’ve only got this life
+this adventure oh then I
+and if we’ve only got this life
+you get me through
+and if we’ve only got this life
+in this adventure oh then I
+want to share it with you
+with you
+with you
+yeah I do
+woohoo
+woohoo
+woohoo","['turn', 'your', 'magic', 'on', 'umi', 'she', '’', 'd', 'say', 'everything', 'you', 'want', '’', 's', 'a', 'dream', 'away', 'and', 'we', 'are', 'legends', 'every', 'day', 'that', '’', 's', 'what', 'she', 'told', 'me', 'turn', 'your', 'magic', 'on', 'to', 'me', 'she', '’', 'd', 'say', 'everything', 'you', 'want', '’', 's', 'a', 'dream', 'away', 'under', 'this', 'pressure', 'under', 'this', 'weight', 'we', 'are', 'diamonds', 'now', 'i', 'feel', 'my', 'heart', 'beating', 'i', 'feel', 'my', 'heart', 'underneath', 'my', 'skin', 'and', 'i', 'feel', 'my', 'heart', 'beating', 'oh', 'you', 'make', 'me', 'feel', 'like', 'i', '’', 'm', 'alive', 'again', 'alive', 'again', 'oh', 'you', 'make', 'me', 'feel', 'like', 'i', '’', 'm', 'alive', 'again', 'said', 'i', 'can', '’', 't', 'go', 'on', 'not', 'in', 'this', 'way', 'i', '’', 'm', 'a', 'dream', 'that', 'died', 'by', 'light', 'of', 'day', 'gon', 'na', 'hold', 'up', 'half', 'the', 'sky', 'and', 'say', 'only', 'i', 'own', 'me', 'and', 'i', 'feel', 'my', 'heart', 'beating', 'i', 'feel', 'my', 'heart', 'underneath', 'my', 'skin', 'oh', 'i', 'can', 'feel', 'my', 'heart', 'beating', 'cause', 'you', 'make', 'me', 'feel', 'like', 'i', '’', 'm', 'alive', 'again', 'alive', 'again', 'oh', 'you', 'make', 'me', 'feel', 'like', 'i', '’', 'm', 'alive', 'again', 'turn', 'your', 'magic', 'on', 'umi', 'she', '’', 'd', 'say', 'everything', 'you', 'want', '’', 's', 'a', 'dream', 'away', 'under', 'this', 'pressure', 'under', 'this', 'weight', 'we', 'are', 'diamonds', 'taking', 'shape', 'we', 'are', 'diamonds', 'taking', 'shape', 'if', 'we', '’', 've', 'only', 'got', 'this', 'life', 'this', 'adventure', 'oh', 'then', 'i', 'and', 'if', 'we', '’', 've', 'only', 'got', 'this', 'life', 'you', 'get', 'me', 'through', 'and', 'if', 'we', '’', 've', 'only', 'got', 'this', 'life', 'in', 'this', 'adventure', 'oh', 'then', 'i', 'want', 'to', 'share', 'it', 'with', 'you', 'with', 'you', 'with', 'you', 'yeah', 'i', 'do', 'woohoo', 'woohoo', 'woohoo']","['VERB', 'PRON', 'NOUN', 'ADP', 'PROPN', 'PRON', 'PUNCT', 'X', 'VERB', 'PRON', 'PRON', 'VERB', 'PUNCT', 'VERB', 'DET', 'NOUN', 'ADV', 'CCONJ', 'PRON', 'AUX', 'NOUN', 'DET', 'NOUN', 'SCONJ', 'PUNCT', 'VERB', 'PRON', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'NOUN', 'ADP', 'ADP', 'PRON', 'PRON', 'PUNCT', 'X', 'VERB', 'PRON', 'PRON', 'VERB', 'PUNCT', 'VERB', 'DET', 'NOUN', 'ADV', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN', 'ADV', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'PRON', 'VERB', 'PRON', 'NOUN', 'ADP', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'INTJ', 'PRON', 'VERB', 'PRON', 'VERB', 'ADP', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'ADV', 'ADJ', 'ADV', 'INTJ', 'PRON', 'VERB', 'PRON', 'VERB', 'ADP', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'ADV', 'VERB', 'PRON', 'AUX', 'PUNCT', 'VERB', 'VERB', 'ADP', 'PART', 'ADP', 'DET', 'NOUN', 'PRON', 'PUNCT', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'ADP', 'NOUN', 'ADP', 'NOUN', 'VERB', 'PART', 'VERB', 'ADP', 'DET', 'DET', 'NOUN', 'CCONJ', 'VERB', 'ADV', 'PRON', 'VERB', 'PRON', 'CCONJ', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'PRON', 'VERB', 'PRON', 'NOUN', 'ADP', 'PRON', 'NOUN', 'INTJ', 'PRON', 'AUX', 'VERB', 'PRON', 'NOUN', 'VERB', 'SCONJ', 'PRON', 'VERB', 'PRON', 'VERB', 'ADP', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'ADV', 'ADJ', 'ADV', 'INTJ', 'PRON', 'VERB', 'PRON', 'VERB', 'ADP', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'ADV', 'VERB', 'PRON', 'NOUN', 'ADP', 'PROPN', 'PRON', 'PUNCT', 'X', 'VERB', 'PRON', 'PRON', 'VERB', 'PUNCT', 'VERB', 'DET', 'NOUN', 'ADV', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB', 'NOUN', 'PRON', 'AUX', 'NOUN', 'VERB', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'AUX', 'ADV', 'VERB', 'DET', 'NOUN', 'DET', 'NOUN', 'INTJ', 'ADV', 'PRON', 'CCONJ', 'SCONJ', 'PRON', 'VERB', 'AUX', 'ADV', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'PRON', 'ADP', 'CCONJ', 'SCONJ', 'PRON', 'VERB', 'AUX', 'ADV', 'VERB', 'DET', 'NOUN', 'ADP', 'DET', 'NOUN', 'INTJ', 'ADV', 'PRON', 'VERB', 'PART', 'VERB', 'PRON', 'ADP', 'PRON', 'ADP', 'PRON', 'ADP', 'PRON', 'INTJ', 'PRON', 'AUX', 'PROPN', 'PROPN', 'PROPN']","['turn', 'your', 'magic', 'on', 'umi', 'she', ""'"", 'd', 'say', 'everything', 'you', 'want', ""'"", 's', 'a', 'dream', 'away', 'and', 'we', 'be', 'legend', 'every', 'day', 'that', ""'"", 's', 'what', 'she', 'tell', 'I', 'turn', 'your', 'magic', 'on', 'to', 'I', 'she', ""'"", 'd', 'say', 'everything', 'you', 'want', ""'"", 's', 'a', 'dream', 'away', 'under', 'this', 'pressure', 'under', 'this', 'weight', 'we', 'be', 'diamond', 'now', 'I', 'feel', 'my', 'heart', 'beat', 'I', 'feel', 'my', 'heart', 'underneath', 'my', 'skin', 'and', 'I', 'feel', 'my', 'heart', 'beat', 'oh', 'you', 'make', 'I', 'feel', 'like', 'I', ""'"", 'm', 'alive', 'again', 'alive', 'again', 'oh', 'you', 'make', 'I', 'feel', 'like', 'I', ""'"", 'm', 'alive', 'again', 'say', 'I', 'can', ""'"", 't', 'go', 'on', 'not', 'in', 'this', 'way', 'I', ""'"", 'm', 'a', 'dream', 'that', 'die', 'by', 'light', 'of', 'day', 'go', 'to', 'hold', 'up', 'half', 'the', 'sky', 'and', 'say', 'only', 'I', 'own', 'I', 'and', 'I', 'feel', 'my', 'heart', 'beat', 'I', 'feel', 'my', 'heart', 'underneath', 'my', 'skin', 'oh', 'I', 'can', 'feel', 'my', 'heart', 'beat', 'cause', 'you', 'make', 'I', 'feel', 'like', 'I', ""'"", 'm', 'alive', 'again', 'alive', 'again', 'oh', 'you', 'make', 'I', 'feel', 'like', 'I', ""'"", 'm', 'alive', 'again', 'turn', 'your', 'magic', 'on', 'umi', 'she', ""'"", 'd', 'say', 'everything', 'you', 'want', ""'"", 's', 'a', 'dream', 'away', 'under', 'this', 'pressure', 'under', 'this', 'weight', 'we', 'be', 'diamond', 'take', 'shape', 'we', 'be', 'diamond', 'take', 'shape', 'if', 'we', '’', 've', 'only', 'get', 'this', 'life', 'this', 'adventure', 'oh', 'then', 'I', 'and', 'if', 'we', '’', 've', 'only', 'get', 'this', 'life', 'you', 'get', 'I', 'through', 'and', 'if', 'we', '’', 've', 'only', 'get', 'this', 'life', 'in', 'this', 'adventure', 'oh', 'then', 'I', 'want', 'to', 'share', 'it', 'with', 'you', 'with', 'you', 'with', 'you', 'yeah', 'I', 'do', 'woohoo', 'woohoo', 'woohoo']"
+ Something Just Like This,"I’ve been reading books of old
+The legends and the myths
+Achilles and his gold
+Hercules and his gifts
+Spider-Man’s control
+And Batman with his fists
+And clearly I don’t see myself upon that list
+
+But she said where d’you wanna go?
+How much you wanna risk?
+I’m not looking for somebody
+With some superhuman gifts
+Some superhero, some fairytale bliss
+Just something I can turn to, somebody I can kiss
+I want something just like this
+Do do do do do do do
+Do do do do do do do
+Do do do do do do
+Oh I want something just like this
+Do do do do do do
+Do do do do do do do
+Do do do do do do
+Oh I want something just like this
+Oh I want something just like this
+
+I’ve been reading books of old
+The legends and the myths
+The testaments they told
+The moon and its eclipse
+Superman unrolls
+A suit before he lifts
+But I’m not the kind of person that it fits
+
+She said where d’you wanna go?
+How much you wanna risk?
+I’m not looking for somebody
+With some superhuman gifts
+Some superhero, some fairytale bliss
+Just something I can turn to, somebody I can miss
+Oh I want something just like this
+Do do do do do do
+Do do do do do do do
+Do do do do do do
+Oh I want something just like this
+Do do do do do do
+Do do do do do do do
+Do do do do do do
+Oh I want something just like this
+Oh I want something just like this
+
+Where d’you wanna go?
+How much you wanna risk?
+I’m not looking for somebody
+With some superhuman gifts
+Some superhero, some fairytale bliss
+Just something I can turn to, somebody I can kiss","['i', '’', 've', 'been', 'reading', 'books', 'of', 'old', 'the', 'legends', 'and', 'the', 'myths', 'achilles', 'and', 'his', 'gold', 'hercules', 'and', 'his', 'gifts', 'spiderman', '’', 's', 'control', 'and', 'batman', 'with', 'his', 'fists', 'and', 'clearly', 'i', 'don', '’', 't', 'see', 'myself', 'upon', 'that', 'list', 'but', 'she', 'said', 'where', 'd', '’', 'you', 'wan', 'na', 'go', 'how', 'much', 'you', 'wan', 'na', 'risk', 'i', '’', 'm', 'not', 'looking', 'for', 'somebody', 'with', 'some', 'superhuman', 'gifts', 'some', 'superhero', 'some', 'fairytale', 'bliss', 'just', 'something', 'i', 'can', 'turn', 'to', 'somebody', 'i', 'can', 'kiss', 'i', 'want', 'something', 'just', 'like', 'this', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'oh', 'i', 'want', 'something', 'just', 'like', 'this', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'oh', 'i', 'want', 'something', 'just', 'like', 'this', 'oh', 'i', 'want', 'something', 'just', 'like', 'this', 'i', '’', 've', 'been', 'reading', 'books', 'of', 'old', 'the', 'legends', 'and', 'the', 'myths', 'the', 'testaments', 'they', 'told', 'the', 'moon', 'and', 'its', 'eclipse', 'superman', 'unrolls', 'a', 'suit', 'before', 'he', 'lifts', 'but', 'i', '’', 'm', 'not', 'the', 'kind', 'of', 'person', 'that', 'it', 'fits', 'she', 'said', 'where', 'd', '’', 'you', 'wan', 'na', 'go', 'how', 'much', 'you', 'wan', 'na', 'risk', 'i', '’', 'm', 'not', 'looking', 'for', 'somebody', 'with', 'some', 'superhuman', 'gifts', 'some', 'superhero', 'some', 'fairytale', 'bliss', 'just', 'something', 'i', 'can', 'turn', 'to', 'somebody', 'i', 'can', 'miss', 'oh', 'i', 'want', 'something', 'just', 'like', 'this', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'oh', 'i', 'want', 'something', 'just', 'like', 'this', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'oh', 'i', 'want', 'something', 'just', 'like', 'this', 'oh', 'i', 'want', 'something', 'just', 'like', 'this', 'where', 'd', '’', 'you', 'wan', 'na', 'go', 'how', 'much', 'you', 'wan', 'na', 'risk', 'i', '’', 'm', 'not', 'looking', 'for', 'somebody', 'with', 'some', 'superhuman', 'gifts', 'some', 'superhero', 'some', 'fairytale', 'bliss', 'just', 'something', 'i', 'can', 'turn', 'to', 'somebody', 'i', 'can', 'kiss']","['PRON', 'PUNCT', 'AUX', 'AUX', 'VERB', 'NOUN', 'ADP', 'ADJ', 'DET', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'VERB', 'CCONJ', 'PRON', 'ADJ', 'NOUN', 'CCONJ', 'PRON', 'NOUN', 'NOUN', 'PUNCT', 'PART', 'NOUN', 'CCONJ', 'NOUN', 'ADP', 'PRON', 'NOUN', 'CCONJ', 'ADV', 'PRON', 'VERB', 'PUNCT', 'PROPN', 'VERB', 'PRON', 'SCONJ', 'DET', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'SCONJ', 'X', 'PUNCT', 'PRON', 'VERB', 'PART', 'VERB', 'SCONJ', 'ADV', 'PRON', 'VERB', 'AUX', 'VERB', 'PRON', 'PUNCT', 'AUX', 'PART', 'VERB', 'ADP', 'PRON', 'ADP', 'DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'VERB', 'ADV', 'PRON', 'PRON', 'AUX', 'VERB', 'ADP', 'PRON', 'PRON', 'AUX', 'VERB', 'PRON', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'VERB', 'INTJ', 'PRON', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'INTJ', 'PRON', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'INTJ', 'PRON', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'PRON', 'PUNCT', 'AUX', 'AUX', 'VERB', 'NOUN', 'ADP', 'ADJ', 'DET', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'DET', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'CCONJ', 'PRON', 'NOUN', 'NOUN', 'VERB', 'DET', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'CCONJ', 'PRON', 'PUNCT', 'VERB', 'PART', 'DET', 'NOUN', 'ADP', 'NOUN', 'PRON', 'PRON', 'VERB', 'PRON', 'VERB', 'SCONJ', 'X', 'PUNCT', 'PRON', 'VERB', 'PART', 'VERB', 'SCONJ', 'ADV', 'PRON', 'VERB', 'AUX', 'VERB', 'PRON', 'PUNCT', 'AUX', 'PART', 'VERB', 'ADP', 'PRON', 'ADP', 'DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'VERB', 'ADV', 'PRON', 'PRON', 'AUX', 'VERB', 'ADP', 'PRON', 'PRON', 'AUX', 'VERB', 'INTJ', 'PRON', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'INTJ', 'PRON', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'AUX', 'INTJ', 'PRON', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'INTJ', 'PRON', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'SCONJ', 'X', 'PUNCT', 'PRON', 'VERB', 'PART', 'VERB', 'SCONJ', 'ADV', 'PRON', 'VERB', 'AUX', 'VERB', 'PRON', 'PUNCT', 'AUX', 'PART', 'VERB', 'ADP', 'PRON', 'ADP', 'DET', 'ADJ', 'NOUN', 'DET', 'NOUN', 'DET', 'NOUN', 'VERB', 'ADV', 'PRON', 'PRON', 'AUX', 'VERB', 'ADP', 'PRON', 'PRON', 'AUX', 'VERB']","['I', ""'"", 've', 'be', 'read', 'book', 'of', 'old', 'the', 'legend', 'and', 'the', 'myth', 'achille', 'and', 'his', 'gold', 'hercule', 'and', 'his', 'gift', 'spiderman', ""'"", 's', 'control', 'and', 'batman', 'with', 'his', 'fist', 'and', 'clearly', 'I', 'don', ""'"", 't', 'see', 'myself', 'upon', 'that', 'list', 'but', 'she', 'say', 'where', 'd', ""'"", 'you', 'wan', 'na', 'go', 'how', 'much', 'you', 'wan', 'na', 'risk', 'I', ""'"", 'm', 'not', 'look', 'for', 'somebody', 'with', 'some', 'superhuman', 'gift', 'some', 'superhero', 'some', 'fairytale', 'bliss', 'just', 'something', 'I', 'can', 'turn', 'to', 'somebody', 'I', 'can', 'kiss', 'I', 'want', 'something', 'just', 'like', 'this', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'oh', 'I', 'want', 'something', 'just', 'like', 'this', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'oh', 'I', 'want', 'something', 'just', 'like', 'this', 'oh', 'I', 'want', 'something', 'just', 'like', 'this', 'I', ""'"", 've', 'be', 'read', 'book', 'of', 'old', 'the', 'legend', 'and', 'the', 'myth', 'the', 'testament', 'they', 'tell', 'the', 'moon', 'and', 'its', 'eclipse', 'superman', 'unroll', 'a', 'suit', 'before', 'he', 'lift', 'but', 'I', ""'"", 'm', 'not', 'the', 'kind', 'of', 'person', 'that', 'it', 'fit', 'she', 'say', 'where', 'd', ""'"", 'you', 'wan', 'na', 'go', 'how', 'much', 'you', 'wan', 'na', 'risk', 'I', ""'"", 'm', 'not', 'look', 'for', 'somebody', 'with', 'some', 'superhuman', 'gift', 'some', 'superhero', 'some', 'fairytale', 'bliss', 'just', 'something', 'I', 'can', 'turn', 'to', 'somebody', 'I', 'can', 'miss', 'oh', 'I', 'want', 'something', 'just', 'like', 'this', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'oh', 'I', 'want', 'something', 'just', 'like', 'this', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'do', 'oh', 'I', 'want', 'something', 'just', 'like', 'this', 'oh', 'I', 'want', 'something', 'just', 'like', 'this', 'where', 'd', ""'"", 'you', 'wan', 'na', 'go', 'how', 'much', 'you', 'wan', 'na', 'risk', 'I', ""'"", 'm', 'not', 'look', 'for', 'somebody', 'with', 'some', 'superhuman', 'gift', 'some', 'superhero', 'some', 'fairytale', 'bliss', 'just', 'something', 'I', 'can', 'turn', 'to', 'somebody', 'I', 'can', 'kiss']"
+The Scientist,"Come up to meet you, tell you I’m sorry
+You don’t know how lovely you are
+
+I had to find you
+Tell you I need you
+Tell you I set you apart
+
+Tell me your secrets
+And ask me your questions
+Oh, let’s go back to the start
+
+Running in circles
+Coming up tails
+Heads on a science apart
+
+Nobody said it was easy
+It’s such a shame for us to part
+Nobody said it was easy
+No one ever said it would be this hard
+
+Oh, take me back to the start
+
+I was just guessing
+At numbers and figures
+Pulling the puzzles apart
+
+Questions of science
+Science and progress
+Do not speak as loud as my heart
+
+Tell me you love me
+Come back and haunt me
+Oh, and I rush to the start
+
+Running in circles
+Chasing our tails
+Coming back as we are
+
+Nobody said it was easy
+Oh, it’s such a shame for us to part
+Nobody said it was easy
+No one ever said it would be so hard
+
+I’m going back to the start","['come', 'up', 'to', 'meet', 'you', 'tell', 'you', 'i', '’', 'm', 'sorry', 'you', 'don', '’', 't', 'know', 'how', 'lovely', 'you', 'are', 'i', 'had', 'to', 'find', 'you', 'tell', 'you', 'i', 'need', 'you', 'tell', 'you', 'i', 'set', 'you', 'apart', 'tell', 'me', 'your', 'secrets', 'and', 'ask', 'me', 'your', 'questions', 'oh', 'let', '’', 's', 'go', 'back', 'to', 'the', 'start', 'running', 'in', 'circles', 'coming', 'up', 'tails', 'heads', 'on', 'a', 'science', 'apart', 'nobody', 'said', 'it', 'was', 'easy', 'it', '’', 's', 'such', 'a', 'shame', 'for', 'us', 'to', 'part', 'nobody', 'said', 'it', 'was', 'easy', 'no', 'one', 'ever', 'said', 'it', 'would', 'be', 'this', 'hard', 'oh', 'take', 'me', 'back', 'to', 'the', 'start', 'i', 'was', 'just', 'guessing', 'at', 'numbers', 'and', 'figures', 'pulling', 'the', 'puzzles', 'apart', 'questions', 'of', 'science', 'science', 'and', 'progress', 'do', 'not', 'speak', 'as', 'loud', 'as', 'my', 'heart', 'tell', 'me', 'you', 'love', 'me', 'come', 'back', 'and', 'haunt', 'me', 'oh', 'and', 'i', 'rush', 'to', 'the', 'start', 'running', 'in', 'circles', 'chasing', 'our', 'tails', 'coming', 'back', 'as', 'we', 'are', 'nobody', 'said', 'it', 'was', 'easy', 'oh', 'it', '’', 's', 'such', 'a', 'shame', 'for', 'us', 'to', 'part', 'nobody', 'said', 'it', 'was', 'easy', 'no', 'one', 'ever', 'said', 'it', 'would', 'be', 'so', 'hard', 'i', '’', 'm', 'going', 'back', 'to', 'the', 'start']","['VERB', 'ADP', 'PART', 'VERB', 'PRON', 'VERB', 'PRON', 'PRON', 'PUNCT', 'VERB', 'ADJ', 'PRON', 'PROPN', 'PUNCT', 'NOUN', 'VERB', 'SCONJ', 'ADJ', 'PRON', 'AUX', 'PRON', 'VERB', 'PART', 'VERB', 'PRON', 'VERB', 'PRON', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'PRON', 'VERB', 'PRON', 'ADV', 'VERB', 'PRON', 'PRON', 'NOUN', 'CCONJ', 'VERB', 'PRON', 'PRON', 'NOUN', 'INTJ', 'VERB', 'PUNCT', 'PRON', 'VERB', 'ADV', 'ADP', 'DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'VERB', 'ADP', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADV', 'PRON', 'VERB', 'PRON', 'AUX', 'ADJ', 'PRON', 'PUNCT', 'VERB', 'DET', 'DET', 'NOUN', 'SCONJ', 'PRON', 'PART', 'VERB', 'PRON', 'VERB', 'PRON', 'AUX', 'ADJ', 'DET', 'NOUN', 'ADV', 'VERB', 'PRON', 'AUX', 'AUX', 'PRON', 'ADJ', 'INTJ', 'VERB', 'PRON', 'ADV', 'ADP', 'DET', 'NOUN', 'PRON', 'AUX', 'ADV', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'NOUN', 'VERB', 'DET', 'NOUN', 'ADV', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'CCONJ', 'NOUN', 'AUX', 'PART', 'VERB', 'ADV', 'ADJ', 'SCONJ', 'PRON', 'NOUN', 'VERB', 'PRON', 'PRON', 'VERB', 'PRON', 'VERB', 'ADV', 'CCONJ', 'VERB', 'PRON', 'INTJ', 'CCONJ', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'VERB', 'ADP', 'NOUN', 'VERB', 'PRON', 'NOUN', 'VERB', 'ADV', 'SCONJ', 'PRON', 'AUX', 'PRON', 'VERB', 'PRON', 'AUX', 'ADJ', 'INTJ', 'PRON', 'PUNCT', 'VERB', 'DET', 'DET', 'NOUN', 'SCONJ', 'PRON', 'PART', 'VERB', 'PRON', 'VERB', 'PRON', 'AUX', 'ADJ', 'DET', 'NOUN', 'ADV', 'VERB', 'PRON', 'AUX', 'AUX', 'ADV', 'ADJ', 'PRON', 'PUNCT', 'AUX', 'VERB', 'ADV', 'ADP', 'DET', 'NOUN']","['come', 'up', 'to', 'meet', 'you', 'tell', 'you', 'I', ""'"", 'm', 'sorry', 'you', 'don', ""'"", 't', 'know', 'how', 'lovely', 'you', 'be', 'I', 'have', 'to', 'find', 'you', 'tell', 'you', 'I', 'need', 'you', 'tell', 'you', 'I', 'set', 'you', 'apart', 'tell', 'I', 'your', 'secret', 'and', 'ask', 'I', 'your', 'question', 'oh', 'let', ""'"", 's', 'go', 'back', 'to', 'the', 'start', 'run', 'in', 'circle', 'come', 'up', 'tail', 'head', 'on', 'a', 'science', 'apart', 'nobody', 'say', 'it', 'be', 'easy', 'it', ""'"", 's', 'such', 'a', 'shame', 'for', 'we', 'to', 'part', 'nobody', 'say', 'it', 'be', 'easy', 'no', 'one', 'ever', 'say', 'it', 'would', 'be', 'this', 'hard', 'oh', 'take', 'I', 'back', 'to', 'the', 'start', 'I', 'be', 'just', 'guess', 'at', 'number', 'and', 'figure', 'pull', 'the', 'puzzle', 'apart', 'question', 'of', 'science', 'science', 'and', 'progress', 'do', 'not', 'speak', 'as', 'loud', 'as', 'my', 'heart', 'tell', 'I', 'you', 'love', 'I', 'come', 'back', 'and', 'haunt', 'I', 'oh', 'and', 'I', 'rush', 'to', 'the', 'start', 'run', 'in', 'circle', 'chase', 'our', 'tail', 'come', 'back', 'as', 'we', 'be', 'nobody', 'say', 'it', 'be', 'easy', 'oh', 'it', ""'"", 's', 'such', 'a', 'shame', 'for', 'we', 'to', 'part', 'nobody', 'say', 'it', 'be', 'easy', 'no', 'one', 'ever', 'say', 'it', 'would', 'be', 'so', 'hard', 'I', ""'"", 'm', 'go', 'back', 'to', 'the', 'start']"
+Every Teardrop Is a Waterfall,"I turn the music up, I got my records on
+I shut the world outside until the lights come on
+Maybe the streets alight, maybe the trees are gone
+I feel my heart start beating to my favourite song
+
+And all the kids they dance, all the kids all night
+Until Monday morning feels another life
+I turn the music up
+I’m on a roll this time
+And heaven is in sight
+
+I turn the music up, I got my records on
+From underneath the rubble sing a rebel song
+Don’t want to see another generation drop
+I’d rather be a comma than a full stop
+
+Maybe I’m in the black, maybe I’m on my knees
+Maybe I’m in the gap between the two trapezes
+But my heart is beating and my pulses start
+Cathedrals in my heart
+
+And we saw oh this light I swear you, emerge blinking into
+To tell me it’s alright
+As we soar walls, every siren is a symphony
+And every tear’s a waterfall
+Is a waterfall
+Oh
+Is a waterfall
+Oh oh oh
+Is a is a waterfall
+Every tear
+Is a waterfall
+Oh oh oh
+
+So you can hurt, hurt me bad
+But still I’ll raise the flag","['i', 'turn', 'the', 'music', 'up', 'i', 'got', 'my', 'records', 'on', 'i', 'shut', 'the', 'world', 'outside', 'until', 'the', 'lights', 'come', 'on', 'maybe', 'the', 'streets', 'alight', 'maybe', 'the', 'trees', 'are', 'gone', 'i', 'feel', 'my', 'heart', 'start', 'beating', 'to', 'my', 'favourite', 'song', 'and', 'all', 'the', 'kids', 'they', 'dance', 'all', 'the', 'kids', 'all', 'night', 'until', 'monday', 'morning', 'feels', 'another', 'life', 'i', 'turn', 'the', 'music', 'up', 'i', '’', 'm', 'on', 'a', 'roll', 'this', 'time', 'and', 'heaven', 'is', 'in', 'sight', 'i', 'turn', 'the', 'music', 'up', 'i', 'got', 'my', 'records', 'on', 'from', 'underneath', 'the', 'rubble', 'sing', 'a', 'rebel', 'song', 'don', '’', 't', 'want', 'to', 'see', 'another', 'generation', 'drop', 'i', '’', 'd', 'rather', 'be', 'a', 'comma', 'than', 'a', 'full', 'stop', 'maybe', 'i', '’', 'm', 'in', 'the', 'black', 'maybe', 'i', '’', 'm', 'on', 'my', 'knees', 'maybe', 'i', '’', 'm', 'in', 'the', 'gap', 'between', 'the', 'two', 'trapezes', 'but', 'my', 'heart', 'is', 'beating', 'and', 'my', 'pulses', 'start', 'cathedrals', 'in', 'my', 'heart', 'and', 'we', 'saw', 'oh', 'this', 'light', 'i', 'swear', 'you', 'emerge', 'blinking', 'into', 'to', 'tell', 'me', 'it', '’', 's', 'alright', 'as', 'we', 'soar', 'walls', 'every', 'siren', 'is', 'a', 'symphony', 'and', 'every', 'tear', '’', 's', 'a', 'waterfall', 'is', 'a', 'waterfall', 'oh', 'is', 'a', 'waterfall', 'oh', 'oh', 'oh', 'is', 'a', 'is', 'a', 'waterfall', 'every', 'tear', 'is', 'a', 'waterfall', 'oh', 'oh', 'oh', 'so', 'you', 'can', 'hurt', 'hurt', 'me', 'bad', 'but', 'still', 'i', '’', 'll', 'raise', 'the', 'flag']","['PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON', 'VERB', 'PRON', 'NOUN', 'ADP', 'PRON', 'VERB', 'DET', 'NOUN', 'ADV', 'SCONJ', 'DET', 'NOUN', 'VERB', 'ADP', 'ADV', 'DET', 'NOUN', 'VERB', 'ADV', 'DET', 'NOUN', 'AUX', 'VERB', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'VERB', 'ADP', 'PRON', 'ADJ', 'NOUN', 'CCONJ', 'DET', 'DET', 'NOUN', 'PRON', 'VERB', 'DET', 'DET', 'NOUN', 'DET', 'NOUN', 'SCONJ', 'PROPN', 'NOUN', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON', 'PUNCT', 'VERB', 'ADP', 'DET', 'NOUN', 'DET', 'NOUN', 'CCONJ', 'PROPN', 'AUX', 'ADP', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'ADP', 'PRON', 'VERB', 'PRON', 'NOUN', 'ADP', 'ADP', 'ADP', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'NOUN', 'PROPN', 'PUNCT', 'PROPN', 'VERB', 'PART', 'VERB', 'DET', 'NOUN', 'NOUN', 'PRON', 'PUNCT', 'NOUN', 'ADV', 'AUX', 'DET', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'ADV', 'PRON', 'PUNCT', 'VERB', 'ADP', 'DET', 'NOUN', 'ADV', 'PRON', 'PUNCT', 'VERB', 'ADP', 'PRON', 'NOUN', 'ADV', 'PRON', 'PUNCT', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'DET', 'NUM', 'NOUN', 'CCONJ', 'PRON', 'NOUN', 'AUX', 'VERB', 'CCONJ', 'PRON', 'NOUN', 'VERB', 'NOUN', 'ADP', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'INTJ', 'DET', 'NOUN', 'PRON', 'VERB', 'PRON', 'VERB', 'VERB', 'ADP', 'PART', 'VERB', 'PRON', 'PRON', 'PUNCT', 'VERB', 'INTJ', 'SCONJ', 'PRON', 'VERB', 'NOUN', 'DET', 'NOUN', 'AUX', 'DET', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'PUNCT', 'VERB', 'DET', 'NOUN', 'AUX', 'DET', 'NOUN', 'INTJ', 'AUX', 'DET', 'NOUN', 'INTJ', 'INTJ', 'INTJ', 'AUX', 'PRON', 'AUX', 'DET', 'NOUN', 'DET', 'NOUN', 'AUX', 'DET', 'NOUN', 'INTJ', 'INTJ', 'INTJ', 'ADV', 'PRON', 'AUX', 'VERB', 'VERB', 'PRON', 'ADJ', 'CCONJ', 'ADV', 'PRON', 'PUNCT', 'AUX', 'VERB', 'DET', 'NOUN']","['I', 'turn', 'the', 'music', 'up', 'I', 'get', 'my', 'record', 'on', 'I', 'shut', 'the', 'world', 'outside', 'until', 'the', 'light', 'come', 'on', 'maybe', 'the', 'street', 'alight', 'maybe', 'the', 'tree', 'be', 'go', 'I', 'feel', 'my', 'heart', 'start', 'beat', 'to', 'my', 'favourite', 'song', 'and', 'all', 'the', 'kid', 'they', 'dance', 'all', 'the', 'kid', 'all', 'night', 'until', 'monday', 'morning', 'feel', 'another', 'life', 'I', 'turn', 'the', 'music', 'up', 'I', ""'"", 'm', 'on', 'a', 'roll', 'this', 'time', 'and', 'heaven', 'be', 'in', 'sight', 'I', 'turn', 'the', 'music', 'up', 'I', 'get', 'my', 'record', 'on', 'from', 'underneath', 'the', 'rubble', 'sing', 'a', 'rebel', 'song', 'don', ""'"", 't', 'want', 'to', 'see', 'another', 'generation', 'drop', 'I', ""'"", 'd', 'rather', 'be', 'a', 'comma', 'than', 'a', 'full', 'stop', 'maybe', 'I', ""'"", 'm', 'in', 'the', 'black', 'maybe', 'I', ""'"", 'm', 'on', 'my', 'knee', 'maybe', 'I', ""'"", 'm', 'in', 'the', 'gap', 'between', 'the', 'two', 'trapeze', 'but', 'my', 'heart', 'be', 'beat', 'and', 'my', 'pulse', 'start', 'cathedral', 'in', 'my', 'heart', 'and', 'we', 'see', 'oh', 'this', 'light', 'I', 'swear', 'you', 'emerge', 'blink', 'into', 'to', 'tell', 'I', 'it', ""'"", 's', 'alright', 'as', 'we', 'soar', 'wall', 'every', 'siren', 'be', 'a', 'symphony', 'and', 'every', 'tear', ""'"", 's', 'a', 'waterfall', 'be', 'a', 'waterfall', 'oh', 'be', 'a', 'waterfall', 'oh', 'oh', 'oh', 'be', 'a', 'be', 'a', 'waterfall', 'every', 'tear', 'be', 'a', 'waterfall', 'oh', 'oh', 'oh', 'so', 'you', 'can', 'hurt', 'hurt', 'I', 'bad', 'but', 'still', 'I', ""'"", 'll', 'raise', 'the', 'flag']"
+Christmas Lights,"Christmas night, another fight
+Tears we cried a flood
+Got all kinds of poison in
+Poison in my blood
+
+I took my feet
+To Oxford Street
+Trying to right a wrong
+Just walk away
+Those windows say
+But I can’t believe she’s gone
+
+When you’re still waiting for the snow to fall
+Doesn’t really feel like Christmas at all
+
+Up above candles on air flicker
+Oh they flicker and they float
+But I’m up here holding on
+To all those chandeliers of hope
+
+Like some drunken Elvis singing
+I go singing out of tune
+Saying how I always loved you darling
+And I always will
+
+Oh when you’re still waiting for the snow to fall
+Doesn’t really feel like Christmas at all
+
+Still waiting for the snow to fall
+It doesn’t really feel like Christmas at all
+
+Those Christmas lights
+Light up the street
+Down where the sea and city meet
+May all your troubles soon be gone
+Oh Christmas lights keep shining on
+
+Those Christmas lights
+Light up the street
+Maybe they’ll bring her back to me
+Then all my troubles will be gone
+Oh Christmas lights keep shining on
+
+Oh Christmas lights
+Light up the street
+Light up the fireworks in me
+May all your troubles soon be gone
+Oh Christmas lights keep shining on","['christmas', 'night', 'another', 'fight', 'tears', 'we', 'cried', 'a', 'flood', 'got', 'all', 'kinds', 'of', 'poison', 'in', 'poison', 'in', 'my', 'blood', 'i', 'took', 'my', 'feet', 'to', 'oxford', 'street', 'trying', 'to', 'right', 'a', 'wrong', 'just', 'walk', 'away', 'those', 'windows', 'say', 'but', 'i', 'can', '’', 't', 'believe', 'she', '’', 's', 'gone', 'when', 'you', '’', 're', 'still', 'waiting', 'for', 'the', 'snow', 'to', 'fall', 'doesn', '’', 't', 'really', 'feel', 'like', 'christmas', 'at', 'all', 'up', 'above', 'candles', 'on', 'air', 'flicker', 'oh', 'they', 'flicker', 'and', 'they', 'float', 'but', 'i', '’', 'm', 'up', 'here', 'holding', 'on', 'to', 'all', 'those', 'chandeliers', 'of', 'hope', 'like', 'some', 'drunken', 'elvis', 'singing', 'i', 'go', 'singing', 'out', 'of', 'tune', 'saying', 'how', 'i', 'always', 'loved', 'you', 'darling', 'and', 'i', 'always', 'will', 'oh', 'when', 'you', '’', 're', 'still', 'waiting', 'for', 'the', 'snow', 'to', 'fall', 'doesn', '’', 't', 'really', 'feel', 'like', 'christmas', 'at', 'all', 'still', 'waiting', 'for', 'the', 'snow', 'to', 'fall', 'it', 'doesn', '’', 't', 'really', 'feel', 'like', 'christmas', 'at', 'all', 'those', 'christmas', 'lights', 'light', 'up', 'the', 'street', 'down', 'where', 'the', 'sea', 'and', 'city', 'meet', 'may', 'all', 'your', 'troubles', 'soon', 'be', 'gone', 'oh', 'christmas', 'lights', 'keep', 'shining', 'on', 'those', 'christmas', 'lights', 'light', 'up', 'the', 'street', 'maybe', 'they', '’', 'll', 'bring', 'her', 'back', 'to', 'me', 'then', 'all', 'my', 'troubles', 'will', 'be', 'gone', 'oh', 'christmas', 'lights', 'keep', 'shining', 'on', 'oh', 'christmas', 'lights', 'light', 'up', 'the', 'street', 'light', 'up', 'the', 'fireworks', 'in', 'me', 'may', 'all', 'your', 'troubles', 'soon', 'be', 'gone', 'oh', 'christmas', 'lights', 'keep', 'shining', 'on']","['PROPN', 'NOUN', 'DET', 'NOUN', 'NOUN', 'PRON', 'VERB', 'DET', 'NOUN', 'VERB', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'NOUN', 'ADP', 'PRON', 'NOUN', 'PRON', 'VERB', 'PRON', 'NOUN', 'PART', 'PROPN', 'NOUN', 'VERB', 'PART', 'VERB', 'DET', 'NOUN', 'ADV', 'VERB', 'ADV', 'DET', 'NOUN', 'VERB', 'CCONJ', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'VERB', 'PRON', 'PUNCT', 'AUX', 'VERB', 'SCONJ', 'PRON', 'PUNCT', 'ADP', 'ADV', 'VERB', 'SCONJ', 'DET', 'NOUN', 'PART', 'VERB', 'PROPN', 'PUNCT', 'NOUN', 'ADV', 'VERB', 'ADP', 'PROPN', 'ADV', 'ADV', 'ADV', 'ADP', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'INTJ', 'PRON', 'VERB', 'CCONJ', 'PRON', 'VERB', 'CCONJ', 'PRON', 'PUNCT', 'VERB', 'ADV', 'ADV', 'VERB', 'ADP', 'ADP', 'DET', 'DET', 'NOUN', 'ADP', 'NOUN', 'ADP', 'DET', 'ADJ', 'NOUN', 'NOUN', 'PRON', 'VERB', 'VERB', 'ADP', 'ADP', 'NOUN', 'VERB', 'SCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'ADV', 'AUX', 'INTJ', 'SCONJ', 'PRON', 'PUNCT', 'ADP', 'ADV', 'VERB', 'SCONJ', 'DET', 'NOUN', 'PART', 'VERB', 'PROPN', 'PUNCT', 'NOUN', 'ADV', 'VERB', 'ADP', 'PROPN', 'ADV', 'ADV', 'ADV', 'VERB', 'SCONJ', 'DET', 'NOUN', 'PART', 'VERB', 'PRON', 'PROPN', 'PUNCT', 'NOUN', 'ADV', 'VERB', 'SCONJ', 'PROPN', 'ADP', 'DET', 'DET', 'PROPN', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADP', 'SCONJ', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'NOUN', 'AUX', 'PRON', 'PRON', 'NOUN', 'ADV', 'AUX', 'VERB', 'INTJ', 'ADJ', 'NOUN', 'VERB', 'VERB', 'ADP', 'DET', 'PROPN', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'ADV', 'PRON', 'PUNCT', 'AUX', 'VERB', 'PRON', 'ADV', 'ADP', 'PRON', 'ADV', 'DET', 'PRON', 'NOUN', 'AUX', 'AUX', 'VERB', 'INTJ', 'ADJ', 'NOUN', 'VERB', 'VERB', 'ADP', 'INTJ', 'PROPN', 'NOUN', 'VERB', 'ADP', 'DET', 'NOUN', 'NOUN', 'ADP', 'DET', 'NOUN', 'ADP', 'PRON', 'AUX', 'PRON', 'PRON', 'NOUN', 'ADV', 'AUX', 'VERB', 'INTJ', 'ADJ', 'NOUN', 'VERB', 'VERB', 'ADP']","['christmas', 'night', 'another', 'fight', 'tear', 'we', 'cry', 'a', 'flood', 'get', 'all', 'kind', 'of', 'poison', 'in', 'poison', 'in', 'my', 'blood', 'I', 'take', 'my', 'foot', 'to', 'oxford', 'street', 'try', 'to', 'right', 'a', 'wrong', 'just', 'walk', 'away', 'those', 'window', 'say', 'but', 'I', 'can', ""'"", 't', 'believe', 'she', ""'"", 's', 'go', 'when', 'you', ""'"", 're', 'still', 'wait', 'for', 'the', 'snow', 'to', 'fall', 'doesn', ""'"", 't', 'really', 'feel', 'like', 'christmas', 'at', 'all', 'up', 'above', 'candle', 'on', 'air', 'flicker', 'oh', 'they', 'flicker', 'and', 'they', 'float', 'but', 'I', ""'"", 'm', 'up', 'here', 'hold', 'on', 'to', 'all', 'those', 'chandelier', 'of', 'hope', 'like', 'some', 'drunken', 'elvis', 'singing', 'I', 'go', 'singe', 'out', 'of', 'tune', 'say', 'how', 'I', 'always', 'love', 'you', 'darling', 'and', 'I', 'always', 'will', 'oh', 'when', 'you', ""'"", 're', 'still', 'wait', 'for', 'the', 'snow', 'to', 'fall', 'doesn', ""'"", 't', 'really', 'feel', 'like', 'christmas', 'at', 'all', 'still', 'wait', 'for', 'the', 'snow', 'to', 'fall', 'it', 'doesn', ""'"", 't', 'really', 'feel', 'like', 'christmas', 'at', 'all', 'those', 'christmas', 'light', 'light', 'up', 'the', 'street', 'down', 'where', 'the', 'sea', 'and', 'city', 'meet', 'may', 'all', 'your', 'trouble', 'soon', 'be', 'go', 'oh', 'christmas', 'light', 'keep', 'shine', 'on', 'those', 'christmas', 'light', 'light', 'up', 'the', 'street', 'maybe', 'they', ""'"", 'll', 'bring', 'she', 'back', 'to', 'I', 'then', 'all', 'my', 'trouble', 'will', 'be', 'go', 'oh', 'christmas', 'light', 'keep', 'shine', 'on', 'oh', 'christmas', 'light', 'light', 'up', 'the', 'street', 'light', 'up', 'the', 'firework', 'in', 'I', 'may', 'all', 'your', 'trouble', 'soon', 'be', 'go', 'oh', 'christmas', 'light', 'keep', 'shine', 'on']"
+Fix You,"When you try your best, but you don’t succeed
+When you get what you want, but not what you need
+When you feel so tired, but you can’t sleep
+Stuck in reverse
+And the tears come streaming down your face
+When you lose something you can’t replace
+When you love someone, but it goes to waste
+Could it be worse?
+
+Lights will guide you home
+And ignite your bones
+I will try to fix you
+
+High up above or down below
+When you’re too in love to let it go
+But if you never try you’ll never know
+Just what you’re worth
+
+Lights will guide you home
+And ignite your bones
+I will try to fix you
+
+Tears stream down your face
+When you lose something you cannot replace
+Tears stream down your face and I
+Tears stream down your face
+I promise you I will learn from my mistakes
+Tears stream down your face and I
+
+Lights will guide you home
+And ignite your bones
+And I will try to fix you","['when', 'you', 'try', 'your', 'best', 'but', 'you', 'don', '’', 't', 'succeed', 'when', 'you', 'get', 'what', 'you', 'want', 'but', 'not', 'what', 'you', 'need', 'when', 'you', 'feel', 'so', 'tired', 'but', 'you', 'can', '’', 't', 'sleep', 'stuck', 'in', 'reverse', 'and', 'the', 'tears', 'come', 'streaming', 'down', 'your', 'face', 'when', 'you', 'lose', 'something', 'you', 'can', '’', 't', 'replace', 'when', 'you', 'love', 'someone', 'but', 'it', 'goes', 'to', 'waste', 'could', 'it', 'be', 'worse', 'lights', 'will', 'guide', 'you', 'home', 'and', 'ignite', 'your', 'bones', 'i', 'will', 'try', 'to', 'fix', 'you', 'high', 'up', 'above', 'or', 'down', 'below', 'when', 'you', '’', 're', 'too', 'in', 'love', 'to', 'let', 'it', 'go', 'but', 'if', 'you', 'never', 'try', 'you', '’', 'll', 'never', 'know', 'just', 'what', 'you', '’', 're', 'worth', 'lights', 'will', 'guide', 'you', 'home', 'and', 'ignite', 'your', 'bones', 'i', 'will', 'try', 'to', 'fix', 'you', 'tears', 'stream', 'down', 'your', 'face', 'when', 'you', 'lose', 'something', 'you', 'can', 'not', 'replace', 'tears', 'stream', 'down', 'your', 'face', 'and', 'i', 'tears', 'stream', 'down', 'your', 'face', 'i', 'promise', 'you', 'i', 'will', 'learn', 'from', 'my', 'mistakes', 'tears', 'stream', 'down', 'your', 'face', 'and', 'i', 'lights', 'will', 'guide', 'you', 'home', 'and', 'ignite', 'your', 'bones', 'and', 'i', 'will', 'try', 'to', 'fix', 'you']","['SCONJ', 'PRON', 'VERB', 'PRON', 'ADJ', 'CCONJ', 'PRON', 'PROPN', 'PUNCT', 'PROPN', 'VERB', 'SCONJ', 'PRON', 'VERB', 'PRON', 'PRON', 'VERB', 'CCONJ', 'PART', 'PRON', 'PRON', 'VERB', 'SCONJ', 'PRON', 'VERB', 'ADV', 'ADJ', 'CCONJ', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'NOUN', 'VERB', 'ADP', 'NOUN', 'CCONJ', 'DET', 'NOUN', 'VERB', 'VERB', 'ADP', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'PRON', 'PRON', 'AUX', 'PUNCT', 'NOUN', 'VERB', 'SCONJ', 'PRON', 'VERB', 'PRON', 'CCONJ', 'PRON', 'VERB', 'ADP', 'NOUN', 'AUX', 'PRON', 'AUX', 'ADJ', 'NOUN', 'AUX', 'VERB', 'PRON', 'ADV', 'CCONJ', 'VERB', 'PRON', 'NOUN', 'PRON', 'AUX', 'VERB', 'PART', 'VERB', 'PRON', 'ADV', 'ADV', 'ADP', 'CCONJ', 'ADV', 'ADV', 'SCONJ', 'PRON', 'PUNCT', 'ADP', 'ADV', 'ADP', 'NOUN', 'PART', 'VERB', 'PRON', 'VERB', 'CCONJ', 'SCONJ', 'PRON', 'ADV', 'VERB', 'PRON', 'PUNCT', 'AUX', 'ADV', 'VERB', 'ADV', 'PRON', 'PRON', 'PUNCT', 'ADP', 'ADJ', 'NOUN', 'AUX', 'VERB', 'PRON', 'ADV', 'CCONJ', 'VERB', 'PRON', 'NOUN', 'PRON', 'AUX', 'VERB', 'PART', 'VERB', 'PRON', 'NOUN', 'VERB', 'ADP', 'PRON', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'PRON', 'PRON', 'AUX', 'PART', 'VERB', 'NOUN', 'VERB', 'ADP', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'VERB', 'VERB', 'ADP', 'PRON', 'NOUN', 'PRON', 'VERB', 'PRON', 'PRON', 'AUX', 'VERB', 'ADP', 'PRON', 'NOUN', 'NOUN', 'VERB', 'ADP', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'NOUN', 'AUX', 'VERB', 'PRON', 'ADV', 'CCONJ', 'VERB', 'PRON', 'NOUN', 'CCONJ', 'PRON', 'AUX', 'VERB', 'PART', 'VERB', 'PRON']","['when', 'you', 'try', 'your', 'good', 'but', 'you', 'don', ""'"", 't', 'succeed', 'when', 'you', 'get', 'what', 'you', 'want', 'but', 'not', 'what', 'you', 'need', 'when', 'you', 'feel', 'so', 'tired', 'but', 'you', 'can', ""'"", 't', 'sleep', 'stick', 'in', 'reverse', 'and', 'the', 'tear', 'come', 'stream', 'down', 'your', 'face', 'when', 'you', 'lose', 'something', 'you', 'can', ""'"", 't', 'replace', 'when', 'you', 'love', 'someone', 'but', 'it', 'go', 'to', 'waste', 'could', 'it', 'be', 'bad', 'light', 'will', 'guide', 'you', 'home', 'and', 'ignite', 'your', 'bone', 'I', 'will', 'try', 'to', 'fix', 'you', 'high', 'up', 'above', 'or', 'down', 'below', 'when', 'you', ""'"", 're', 'too', 'in', 'love', 'to', 'let', 'it', 'go', 'but', 'if', 'you', 'never', 'try', 'you', ""'"", 'll', 'never', 'know', 'just', 'what', 'you', ""'"", 're', 'worth', 'light', 'will', 'guide', 'you', 'home', 'and', 'ignite', 'your', 'bone', 'I', 'will', 'try', 'to', 'fix', 'you', 'tear', 'stream', 'down', 'your', 'face', 'when', 'you', 'lose', 'something', 'you', 'can', 'not', 'replace', 'tear', 'stream', 'down', 'your', 'face', 'and', 'I', 'tear', 'stream', 'down', 'your', 'face', 'I', 'promise', 'you', 'I', 'will', 'learn', 'from', 'my', 'mistake', 'tear', 'stream', 'down', 'your', 'face', 'and', 'I', 'light', 'will', 'guide', 'you', 'home', 'and', 'ignite', 'your', 'bone', 'and', 'I', 'will', 'try', 'to', 'fix', 'you']"
+Hymn for the Weekend,"oh angel sent from up above
+you know you make my world light up
+when I was down, when I was hurt
+you came to lift me up
+
+life is a drink and love’s a drug
+oh now I think I must be miles up
+when I was a river dried up
+you came to rain a flood
+
+you said ‘drink from me, drink from me’
+when I was so thirsty
+poured on a symphony
+now I just can’t get enough
+put your wings on me, on me
+when I was so heavy
+poured on a symphony
+when I’m low low low low
+
+I oh I oh I
+got me feeling drunk and high
+so high so high
+oh I oh I oh I
+now I’m feeling drunk and high
+so high so high
+
+oh angel sent from up above
+I feel you coursing through my blood
+life is a drink and your love’s about
+to make the stars come out
+
+put your wings on me, on me
+when I was so heavy
+poured on a symphony
+when I’m low low low low
+
+I oh I oh I
+you got me feeling drunk and high
+so high so high
+oh I oh I oh I
+now I’m feeling drunk and high
+so high so high
+
+I oh I oh I
+la la la la la la la
+so high so high
+
+oh I oh I oh I
+now I’m feeling drunk and high
+so high so high
+that I shoot across the sky
+that I shoot across the
+that I shoot across the sky
+watch me shoot across the…..","['oh', 'angel', 'sent', 'from', 'up', 'above', 'you', 'know', 'you', 'make', 'my', 'world', 'light', 'up', 'when', 'i', 'was', 'down', 'when', 'i', 'was', 'hurt', 'you', 'came', 'to', 'lift', 'me', 'up', 'life', 'is', 'a', 'drink', 'and', 'love', '’', 's', 'a', 'drug', 'oh', 'now', 'i', 'think', 'i', 'must', 'be', 'miles', 'up', 'when', 'i', 'was', 'a', 'river', 'dried', 'up', 'you', 'came', 'to', 'rain', 'a', 'flood', 'you', 'said', '‘', 'drink', 'from', 'me', 'drink', 'from', 'me', '’', 'when', 'i', 'was', 'so', 'thirsty', 'poured', 'on', 'a', 'symphony', 'now', 'i', 'just', 'can', '’', 't', 'get', 'enough', 'put', 'your', 'wings', 'on', 'me', 'on', 'me', 'when', 'i', 'was', 'so', 'heavy', 'poured', 'on', 'a', 'symphony', 'when', 'i', '’', 'm', 'low', 'low', 'low', 'low', 'i', 'oh', 'i', 'oh', 'i', 'got', 'me', 'feeling', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'oh', 'i', 'oh', 'i', 'oh', 'i', 'now', 'i', '’', 'm', 'feeling', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'oh', 'angel', 'sent', 'from', 'up', 'above', 'i', 'feel', 'you', 'coursing', 'through', 'my', 'blood', 'life', 'is', 'a', 'drink', 'and', 'your', 'love', '’', 's', 'about', 'to', 'make', 'the', 'stars', 'come', 'out', 'put', 'your', 'wings', 'on', 'me', 'on', 'me', 'when', 'i', 'was', 'so', 'heavy', 'poured', 'on', 'a', 'symphony', 'when', 'i', '’', 'm', 'low', 'low', 'low', 'low', 'i', 'oh', 'i', 'oh', 'i', 'you', 'got', 'me', 'feeling', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'oh', 'i', 'oh', 'i', 'oh', 'i', 'now', 'i', '’', 'm', 'feeling', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'i', 'oh', 'i', 'oh', 'i', 'la', 'la', 'la', 'la', 'la', 'la', 'la', 'so', 'high', 'so', 'high', 'oh', 'i', 'oh', 'i', 'oh', 'i', 'now', 'i', '’', 'm', 'feeling', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'that', 'i', 'shoot', 'across', 'the', 'sky', 'that', 'i', 'shoot', 'across', 'the', 'that', 'i', 'shoot', 'across', 'the', 'sky', 'watch', 'me', 'shoot', 'across', 'the…']","['INTJ', 'NOUN', 'VERB', 'ADP', 'ADV', 'ADV', 'PRON', 'VERB', 'PRON', 'VERB', 'PRON', 'NOUN', 'VERB', 'ADP', 'SCONJ', 'PRON', 'AUX', 'ADV', 'SCONJ', 'PRON', 'AUX', 'VERB', 'PRON', 'VERB', 'PART', 'VERB', 'PRON', 'ADP', 'NOUN', 'AUX', 'DET', 'NOUN', 'CCONJ', 'NOUN', 'PUNCT', 'VERB', 'DET', 'NOUN', 'INTJ', 'ADV', 'PRON', 'VERB', 'PRON', 'AUX', 'AUX', 'NOUN', 'ADV', 'SCONJ', 'PRON', 'AUX', 'DET', 'NOUN', 'VERB', 'ADP', 'PRON', 'VERB', 'PART', 'VERB', 'DET', 'NOUN', 'PRON', 'VERB', 'PUNCT', 'VERB', 'ADP', 'PRON', 'VERB', 'ADP', 'PRON', 'PUNCT', 'SCONJ', 'PRON', 'AUX', 'ADV', 'ADJ', 'VERB', 'ADP', 'DET', 'NOUN', 'ADV', 'PRON', 'ADV', 'AUX', 'PUNCT', 'NOUN', 'VERB', 'ADJ', 'VERB', 'PRON', 'NOUN', 'ADP', 'PRON', 'ADP', 'PRON', 'SCONJ', 'PRON', 'AUX', 'ADV', 'ADJ', 'VERB', 'ADP', 'DET', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'VERB', 'ADV', 'ADV', 'ADJ', 'ADJ', 'PRON', 'INTJ', 'PRON', 'INTJ', 'PRON', 'VERB', 'PRON', 'VERB', 'ADJ', 'CCONJ', 'ADJ', 'ADV', 'ADJ', 'ADV', 'ADJ', 'INTJ', 'PRON', 'INTJ', 'PRON', 'INTJ', 'PRON', 'ADV', 'PRON', 'PUNCT', 'AUX', 'VERB', 'ADJ', 'CCONJ', 'ADJ', 'ADV', 'ADJ', 'ADV', 'ADJ', 'INTJ', 'NOUN', 'VERB', 'ADP', 'ADV', 'ADV', 'PRON', 'VERB', 'PRON', 'VERB', 'ADP', 'PRON', 'NOUN', 'NOUN', 'AUX', 'DET', 'NOUN', 'CCONJ', 'PRON', 'NOUN', 'PUNCT', 'AUX', 'ADJ', 'PART', 'VERB', 'DET', 'NOUN', 'VERB', 'ADP', 'VERB', 'PRON', 'NOUN', 'ADP', 'PRON', 'ADP', 'PRON', 'SCONJ', 'PRON', 'AUX', 'ADV', 'ADJ', 'VERB', 'ADP', 'DET', 'NOUN', 'SCONJ', 'PRON', 'VERB', 'VERB', 'ADV', 'ADV', 'ADJ', 'ADJ', 'PRON', 'INTJ', 'PRON', 'INTJ', 'PRON', 'PRON', 'VERB', 'PRON', 'VERB', 'ADJ', 'CCONJ', 'ADJ', 'ADV', 'ADJ', 'ADV', 'ADJ', 'INTJ', 'PRON', 'INTJ', 'PRON', 'INTJ', 'PRON', 'ADV', 'PRON', 'PUNCT', 'AUX', 'VERB', 'ADJ', 'CCONJ', 'ADJ', 'ADV', 'ADJ', 'ADV', 'ADJ', 'PRON', 'INTJ', 'PRON', 'INTJ', 'PRON', 'INTJ', 'PROPN', 'PROPN', 'PROPN', 'PROPN', 'INTJ', 'PROPN', 'ADV', 'ADJ', 'ADV', 'ADJ', 'INTJ', 'PRON', 'INTJ', 'PRON', 'INTJ', 'PRON', 'ADV', 'PRON', 'PUNCT', 'AUX', 'VERB', 'ADJ', 'CCONJ', 'ADJ', 'ADV', 'ADJ', 'ADV', 'ADJ', 'SCONJ', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'PRON', 'PRON', 'VERB', 'ADP', 'PRON', 'PRON', 'PRON', 'VERB', 'ADP', 'DET', 'NOUN', 'VERB', 'PRON', 'VERB', 'ADP', 'PRON', 'PUNCT']","['oh', 'angel', 'send', 'from', 'up', 'above', 'you', 'know', 'you', 'make', 'my', 'world', 'light', 'up', 'when', 'I', 'be', 'down', 'when', 'I', 'be', 'hurt', 'you', 'come', 'to', 'lift', 'I', 'up', 'life', 'be', 'a', 'drink', 'and', 'love', ""'"", 's', 'a', 'drug', 'oh', 'now', 'I', 'think', 'I', 'must', 'be', 'mile', 'up', 'when', 'I', 'be', 'a', 'river', 'dry', 'up', 'you', 'come', 'to', 'rain', 'a', 'flood', 'you', 'say', ""'"", 'drink', 'from', 'I', 'drink', 'from', 'I', ""'"", 'when', 'I', 'be', 'so', 'thirsty', 'pour', 'on', 'a', 'symphony', 'now', 'I', 'just', 'can', ""'"", 't', 'get', 'enough', 'put', 'your', 'wing', 'on', 'I', 'on', 'I', 'when', 'I', 'be', 'so', 'heavy', 'pour', 'on', 'a', 'symphony', 'when', 'I', '’', 'm', 'low', 'low', 'low', 'low', 'I', 'oh', 'I', 'oh', 'I', 'get', 'I', 'feel', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'oh', 'I', 'oh', 'I', 'oh', 'I', 'now', 'I', ""'"", 'm', 'feel', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'oh', 'angel', 'send', 'from', 'up', 'above', 'I', 'feel', 'you', 'course', 'through', 'my', 'blood', 'life', 'be', 'a', 'drink', 'and', 'your', 'love', ""'"", 's', 'about', 'to', 'make', 'the', 'star', 'come', 'out', 'put', 'your', 'wing', 'on', 'I', 'on', 'I', 'when', 'I', 'be', 'so', 'heavy', 'pour', 'on', 'a', 'symphony', 'when', 'I', '’', 'm', 'low', 'low', 'low', 'low', 'I', 'oh', 'I', 'oh', 'I', 'you', 'get', 'I', 'feel', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'oh', 'I', 'oh', 'I', 'oh', 'I', 'now', 'I', ""'"", 'm', 'feel', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'I', 'oh', 'I', 'oh', 'I', 'la', 'la', 'la', 'la', 'la', 'la', 'la', 'so', 'high', 'so', 'high', 'oh', 'I', 'oh', 'I', 'oh', 'I', 'now', 'I', ""'"", 'm', 'feel', 'drunk', 'and', 'high', 'so', 'high', 'so', 'high', 'that', 'I', 'shoot', 'across', 'the', 'sky', 'that', 'I', 'shoot', 'across', 'the', 'that', 'I', 'shoot', 'across', 'the', 'sky', 'watch', 'I', 'shoot', 'across', 'the', '…']"
